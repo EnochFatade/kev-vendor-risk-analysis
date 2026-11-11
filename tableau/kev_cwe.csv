@@ -1,0 +1,1736 @@
+cve_id,cwe,cwe_name,vendor,year_added,ransomware_flag
+CVE-2026-124194,CWE-356,Other,Microsoft,2026,0
+CVE-2026-111793,CWE-669,Other,Openwave Messaging Limited,2026,0
+CVE-2026-20320,CWE-611,Other,Cisco,2026,0
+CVE-2026-111560,CWE-78,OS command injection,Barracuda Networks,2026,0
+CVE-2026-116606,CWE-288,Other,Barracuda Networks,2026,0
+CVE-2026-125350,CWE-416,Use after free,Google,2026,0
+CVE-2026-102895,CWE-287,Improper authentication,GPUStack,2026,0
+CVE-2026-123158,CWE-394,Other,OpenBSD,2026,0
+CVE-2026-116779,CWE-77,Other,SignalWire,2026,0
+CVE-2026-123218,CWE-863,Other,IBM,2026,0
+CVE-2026-19868,CWE-308,Other,SonicWall,2026,0
+CVE-2024-27834,CWE-287,Improper authentication,Apple,2026,0
+CVE-2026-119977,CWE-367,Other,WordPress,2026,0
+CVE-2026-118527,CWE-340,Other,Ivanti,2026,0
+CVE-2026-111357,CWE-306,Missing authentication,Ivanti,2026,0
+CVE-2026-97229,CWE-190,Other,GitLab,2026,0
+CVE-2026-76418,CWE-690,Other,Cisco,2026,0
+CVE-2026-41709,CWE-778,Other,Broadcom,2026,0
+CVE-2026-46300,CWE-456,Other,Linux,2026,0
+CVE-2026-48356,CWE-434,Other,Adobe,2026,0
+CVE-2026-111497,CWE-252,Other,Google,2026,0
+CVE-2026-109618,CWE-416,Use after free,PHP Group,2026,0
+CVE-2026-109619,CWE-416,Use after free,PHP Group,2026,0
+CVE-2026-114625,CWE-89,Other,Arista,2026,0
+CVE-2026-110447,CWE-78,OS command injection,Collabora,2026,0
+CVE-2026-106931,CWE-78,OS command injection,EG Secure Solutions,2026,0
+CVE-2026-96656,CWE-73,Other,Plex,2026,0
+CVE-2026-96655,CWE-918,Other,Plex,2026,0
+CVE-2026-96654,CWE-84,Other,Plex,2026,0
+CVE-2026-96652,CWE-918,Other,Plex,2026,0
+CVE-2026-110936,CWE-427,Other,Siemens,2026,0
+CVE-2026-102764,CWE-290,Other,BeyondTrust,2026,0
+CVE-2025-61624,CWE-22,Path traversal,Fortinet,2026,0
+CVE-2026-21589,CWE-552,Other,Atlassian,2026,0
+CVE-2026-105134,CWE-77,Other,Ahsay,2026,0
+CVE-2026-76519,CWE-23,Other,Cisco,2026,0
+CVE-2026-105133,CWE-287,Improper authentication,Ahsay,2026,0
+CVE-2026-0322,CWE-94,Code injection,Palo Alto Networks,2026,0
+CVE-2026-104935,CWE-290,Other,Ivanti,2026,0
+CVE-2026-96951,CWE-77,Other,Microsoft,2026,0
+CVE-2015-5477,CWE-19,Other,ISC,2026,0
+CVE-2016-3081,CWE-77,Other,Apache,2026,0
+CVE-2023-22894,CWE-312,Other,Strapi,2026,0
+CVE-2021-3199,CWE-22,Path traversal,ONLYOFFICE,2026,0
+CVE-2015-3306,CWE-284,Other,ProFTPD,2026,0
+CVE-2026-88779,CWE-119,Memory buffer overflow,Citrix,2026,0
+CVE-2026-102490,CWE-269,Other,Zammad GmbH,2026,0
+CVE-2026-102489,CWE-384,Other,Zammad GmbH,2026,0
+CVE-2026-104286,CWE-22,Path traversal,Fortinet,2026,0
+CVE-2026-76504,CWE-177,Other,Cisco,2026,0
+CVE-2026-86950,CWE-787,Out-of-bounds write,Apple,2026,0
+CVE-2026-88772,CWE-119,Memory buffer overflow,Citrix,2026,0
+CVE-2026-88771,CWE-119,Memory buffer overflow,Citrix,2026,0
+CVE-2026-67279,CWE-841,Other,MikroTik,2026,0
+CVE-2026-65660,CWE-94,Code injection,Microsoft,2026,0
+CVE-2026-87902,CWE-98,Other,WordPress,2026,0
+CVE-2026-5430,CWE-347,Other,WSO2,2026,0
+CVE-2026-71362,CWE-863,Other,Adobe,2026,0
+CVE-2026-93952,CWE-20,Improper input validation,Arista,2026,0
+CVE-2026-94127,CWE-122,Other,F5,2026,0
+CVE-2026-93616,CWE-22,Path traversal,Check Point,2026,0
+CVE-2026-85102,CWE-295,Other,Check Point,2026,0
+CVE-2026-7273,CWE-121,Other,Zyxel,2026,0
+CVE-2025-39964,CWE-362,Other,Linux,2026,0
+CVE-2026-53266,CWE-787,Out-of-bounds write,Linux,2026,0
+CVE-2025-39682,CWE-754,Other,Linux,2026,0
+CVE-2026-58704,CWE-693,Other,Google,2026,0
+CVE-2026-76460,CWE-648,Other,Cisco,2026,0
+CVE-2026-87886,CWE-276,Other,Acronis,2026,0
+CVE-2026-76461,CWE-89,Other,Cisco,2026,0
+CVE-2026-84869,CWE-269,Other,ConnectWise,2026,0
+CVE-2026-42016,CWE-863,Other,JFrog,2026,0
+CVE-2026-42018,CWE-287,Improper authentication,JFrog,2026,0
+CVE-2026-85706,CWE-35,Other,GitLab,2026,0
+CVE-2026-86060,CWE-88,Other,MikroTik,2026,0
+CVE-2026-67277,CWE-306,Missing authentication,MikroTik,2026,0
+CVE-2026-19490,CWE-288,Other,Citrix,2026,0
+CVE-2025-25249,CWE-122,Other,Fortinet,2026,0
+CVE-2026-87491,CWE-787,Out-of-bounds write,Google,2026,0
+CVE-2026-20079,CWE-288,Other,Cisco,2026,0
+CVE-2026-75650,CWE-1336,Other,Adobe,2026,0
+CVE-2026-81963,CWE-59,Other,Microsoft,2026,0
+CVE-2026-86218,CWE-96,Other,N-able,2026,0
+CVE-2026-85880,CWE-122,Other,Microsoft,2026,0
+CVE-2026-85046,CWE-843,Other,Google,2026,0
+CVE-2026-59822,CWE-287,Improper authentication,BerriAI,2026,0
+CVE-2026-48710,CWE-444,Other,Kludex,2026,0
+CVE-2026-49869,CWE-78,OS command injection,Kestra,2026,0
+CVE-2026-82329,CWE-287,Improper authentication,JFrog,2026,0
+CVE-2026-9586,CWE-89,Other,Sangoma,2026,0
+CVE-2026-83548,CWE-918,Other,SonicWall,2026,0
+CVE-2026-83549,CWE-78,OS command injection,SonicWall,2026,0
+CVE-2026-82078,CWE-470,Other,PaperCut,2026,0
+CVE-2026-81578,CWE-306,Missing authentication,PaperCut,2026,0
+CVE-2023-49105,CWE-287,Improper authentication,ownCloud,2026,0
+CVE-2026-66384,CWE-22,Path traversal,JFrog,2026,0
+CVE-2021-23758,CWE-502,Deserialization of untrusted data,Ajax.NET Professional,2026,0
+CVE-2022-0995,CWE-787,Out-of-bounds write,Linux,2026,0
+CVE-2026-8452,CWE-119,Memory buffer overflow,Citrix,2026,0
+CVE-2026-60004,CWE-94,Code injection,Gitea,2026,0
+CVE-2026-21962,CWE-284,Other,Oracle,2026,0
+CVE-2026-73570,CWE-78,OS command injection,Synacor,2026,0
+CVE-2026-72530,CWE-94,Code injection,TrueConf,2026,0
+CVE-2026-72529,CWE-306,Missing authentication,TrueConf,2026,0
+CVE-2026-64849,CWE-918,Other,MLflow,2026,0
+CVE-2026-33824,CWE-415,Other,Microsoft,2026,0
+CVE-2026-59310,CWE-22,Path traversal,Broadcom,2026,1
+CVE-2026-55040,CWE-1390,Other,Microsoft,2026,0
+CVE-2026-65400,CWE-287,Improper authentication,Apple,2026,0
+CVE-2025-62593,CWE-94,Code injection,Ray-Project,2026,0
+CVE-2026-20349,CWE-244,Other,Cisco,2026,0
+CVE-2026-68820,CWE-416,Use after free,Microsoft,2026,0
+CVE-2026-72898,CWE-89,Other,Metabase,2026,0
+CVE-2026-8037,CWE-77,Other,Progress,2026,0
+CVE-2026-63077,CWE-502,Deserialization of untrusted data,JetBrains,2026,1
+CVE-2026-18556,CWE-288,Other,N-able,2026,0
+CVE-2026-34486,CWE-311,Other,Apache,2026,0
+CVE-2026-9198,CWE-94,Code injection,IBM,2026,0
+CVE-2026-18577,CWE-288,Other,N-able,2026,0
+CVE-2026-20316,CWE-259,Other,Cisco,2026,1
+CVE-2025-68686,CWE-200,Other,Fortinet,2026,0
+CVE-2026-16812,CWE-78,OS command injection,Arista,2026,0
+CVE-2026-16232,CWE-287,Improper authentication,Check Point,2026,0
+CVE-2026-50522,CWE-502,Deserialization of untrusted data,Microsoft,2026,0
+CVE-2026-60137,CWE-89,Other,WordPress,2026,0
+CVE-2026-63030,CWE-436,Other,WordPress,2026,0
+CVE-2026-0770,CWE-829,Other,Langflow,2026,0
+CVE-2021-27137,CWE-121,Other,DD-WRT,2026,0
+CVE-2026-58644,CWE-502,Deserialization of untrusted data,Microsoft,2026,0
+CVE-2026-25089,CWE-78,OS command injection,Fortinet,2026,0
+CVE-2026-39808,CWE-78,OS command injection,Fortinet,2026,0
+CVE-2026-46817,CWE-269,Other,Oracle,2026,0
+CVE-2023-4346,CWE-645,Other,KNX Association,2026,0
+CVE-2026-56155,CWE-1220,Other,Microsoft,2026,0
+CVE-2026-56164,CWE-306,Missing authentication,Microsoft,2026,0
+CVE-2026-15409,CWE-918,Other,SonicWall,2026,1
+CVE-2026-15410,CWE-94,Code injection,SonicWall,2026,1
+CVE-2008-4128,CWE-352,Other,Cisco,2026,0
+CVE-2026-56291,CWE-434,Other,Balbooa,2026,0
+CVE-2026-48939,CWE-434,Other,iCagenda,2026,0
+CVE-2026-48908,CWE-434,Other,JoomShaper,2026,0
+CVE-2026-55255,CWE-639,Other,Langflow,2026,0
+CVE-2026-56290,CWE-284,Other,Joomlack,2026,0
+CVE-2026-48282,CWE-22,Path traversal,Adobe,2026,0
+CVE-2026-45659,CWE-502,Deserialization of untrusted data,Microsoft,2026,1
+CVE-2026-48558,CWE-347,Other,SimpleHelp,2026,0
+CVE-2026-12569,CWE-20,Improper input validation,PTC,2026,1
+CVE-2026-20230,CWE-918,Other,Cisco,2026,0
+CVE-2025-67038,CWE-78,OS command injection,Lantronix,2026,0
+CVE-2026-34910,CWE-20,Improper input validation,Ubiquiti,2026,0
+CVE-2026-34909,CWE-22,Path traversal,Ubiquiti,2026,0
+CVE-2026-34908,CWE-284,Other,Ubiquiti,2026,0
+CVE-2026-20253,CWE-306,Missing authentication,Splunk,2026,0
+CVE-2026-48907,CWE-284,Other,Widget Factory,2026,0
+CVE-2026-54420,CWE-61,Other,LiteSpeed,2026,0
+CVE-2026-20262,CWE-22,Path traversal,Cisco,2026,0
+CVE-2026-35273,CWE-306,Missing authentication,Oracle,2026,1
+CVE-2026-10520,CWE-78,OS command injection,Ivanti,2026,0
+CVE-2026-11645,CWE-787,Out-of-bounds write,Google,2026,0
+CVE-2026-7473,CWE-1023,Other,Arista,2026,0
+CVE-2026-20245,CWE-116,Other,Cisco,2026,0
+CVE-2026-42271,CWE-78,OS command injection,BerriAI,2026,0
+CVE-2026-50751,CWE-287,Improper authentication,Check Point,2026,1
+CVE-2026-28318,CWE-400,Other,SolarWinds,2026,0
+CVE-2026-45247,CWE-502,Deserialization of untrusted data,Mirasvit,2026,0
+CVE-2022-0492,CWE-287,Improper authentication,Linux,2026,0
+CVE-2025-48595,CWE-190,Other,Android,2026,0
+CVE-2026-0257,CWE-565,Other,Palo Alto Networks,2026,1
+CVE-2026-48027,CWE-506,Other,Nx,2026,1
+CVE-2026-8398,CWE-506,Other,Daemon,2026,0
+CVE-2026-48172,CWE-266,Other,LiteSpeed,2026,0
+CVE-2026-9082,CWE-89,Other,Drupal,2026,0
+CVE-2025-34291,CWE-346,Other,Langflow,2026,0
+CVE-2026-34926,CWE-23,Other,Trend Micro,2026,0
+CVE-2008-4250,CWE-94,Code injection,Microsoft,2026,0
+CVE-2009-3459,CWE-119,Memory buffer overflow,Adobe,2026,0
+CVE-2010-0249,CWE-416,Use after free,Microsoft,2026,0
+CVE-2010-0806,CWE-399,Other,Microsoft,2026,0
+CVE-2026-41091,CWE-59,Other,Microsoft,2026,0
+CVE-2026-42897,CWE-79,Other,Microsoft,2026,0
+CVE-2026-20182,CWE-287,Improper authentication,Cisco,2026,0
+CVE-2026-42208,CWE-89,Other,BerriAI,2026,0
+CVE-2026-6973,CWE-20,Improper input validation,Ivanti,2026,0
+CVE-2026-0300,CWE-787,Out-of-bounds write,Palo Alto Networks,2026,0
+CVE-2026-31431,CWE-669,Other,Linux,2026,0
+CVE-2026-41940,CWE-306,Missing authentication,WebPros,2026,1
+CVE-2024-1708,CWE-22,Path traversal,ConnectWise,2026,1
+CVE-2026-32202,CWE-693,Other,Microsoft,2026,0
+CVE-2025-29635,CWE-77,Other,D-Link,2026,0
+CVE-2024-7399,CWE-22,Path traversal,Samsung,2026,0
+CVE-2024-57728,CWE-22,Path traversal,SimpleHelp,2026,1
+CVE-2024-57726,CWE-862,Other,SimpleHelp,2026,1
+CVE-2026-39987,CWE-306,Missing authentication,Marimo,2026,0
+CVE-2026-33825,CWE-1220,Other,Microsoft,2026,1
+CVE-2026-20122,CWE-648,Other,Cisco,2026,0
+CVE-2026-20133,CWE-200,Other,Cisco,2026,0
+CVE-2025-2749,CWE-22,Path traversal,Kentico,2026,0
+CVE-2023-27351,CWE-287,Improper authentication,PaperCut,2026,1
+CVE-2025-48700,CWE-79,Other,Synacor,2026,0
+CVE-2026-20128,CWE-257,Other,Cisco,2026,0
+CVE-2025-32975,CWE-287,Improper authentication,Quest,2026,0
+CVE-2024-27199,CWE-23,Other,JetBrains,2026,1
+CVE-2026-34197,CWE-20,Improper input validation,Apache,2026,0
+CVE-2009-0238,CWE-94,Code injection,Microsoft,2026,0
+CVE-2026-32201,CWE-20,Improper input validation,Microsoft,2026,0
+CVE-2012-1854,CWE-426,Other,Microsoft,2026,0
+CVE-2025-60710,CWE-59,Other,Microsoft,2026,1
+CVE-2023-21529,CWE-502,Deserialization of untrusted data,Microsoft,2026,1
+CVE-2023-36424,CWE-125,Other,Microsoft,2026,0
+CVE-2020-9715,CWE-416,Use after free,Adobe,2026,0
+CVE-2026-21643,CWE-89,Other,Fortinet,2026,0
+CVE-2026-34621,CWE-1321,Other,Adobe,2026,0
+CVE-2026-1340,CWE-94,Code injection,Ivanti,2026,0
+CVE-2026-35616,CWE-284,Other,Fortinet,2026,0
+CVE-2026-3502,CWE-494,Other,TrueConf,2026,0
+CVE-2026-5281,CWE-416,Use after free,Google,2026,0
+CVE-2026-3055,CWE-125,Other,Citrix,2026,0
+CVE-2025-53521,CWE-121,Other,F5,2026,0
+CVE-2026-33634,CWE-506,Other,Aquasecurity,2026,0
+CVE-2026-33017,CWE-94,Code injection,Langflow,2026,0
+CVE-2025-32432,CWE-94,Code injection,Craft CMS,2026,0
+CVE-2025-54068,CWE-94,Code injection,Laravel,2026,0
+CVE-2025-43510,CWE-667,Other,Apple,2026,0
+CVE-2025-43520,CWE-120,Other,Apple,2026,0
+CVE-2025-31277,CWE-119,Memory buffer overflow,Apple,2026,0
+CVE-2026-20131,CWE-502,Deserialization of untrusted data,Cisco,2026,1
+CVE-2025-66376,CWE-79,Other,Synacor,2026,0
+CVE-2026-20963,CWE-502,Deserialization of untrusted data,Microsoft,2026,0
+CVE-2025-47813,CWE-209,Other,Wing FTP Server,2026,0
+CVE-2026-3910,CWE-119,Memory buffer overflow,Google,2026,0
+CVE-2026-3909,CWE-787,Out-of-bounds write,Google,2026,0
+CVE-2025-68613,CWE-913,Other,n8n,2026,0
+CVE-2021-22054,CWE-918,Other,Omnissa,2026,0
+CVE-2025-26399,CWE-502,Deserialization of untrusted data,SolarWinds,2026,1
+CVE-2026-1603,CWE-288,Other,Ivanti,2026,0
+CVE-2017-7921,CWE-287,Improper authentication,Hikvision,2026,0
+CVE-2021-22681,CWE-522,Other,Rockwell,2026,0
+CVE-2023-43000,CWE-416,Use after free,Apple,2026,0
+CVE-2021-30952,CWE-190,Other,Apple,2026,0
+CVE-2023-41974,CWE-416,Use after free,Apple,2026,0
+CVE-2026-22719,CWE-77,Other,Broadcom,2026,0
+CVE-2026-21385,CWE-190,Other,Qualcomm,2026,0
+CVE-2022-20775,CWE-25,Other,Cisco,2026,0
+CVE-2026-20127,CWE-287,Improper authentication,Cisco,2026,0
+CVE-2026-25108,CWE-78,OS command injection,Soliton Systems K.K,2026,0
+CVE-2025-49113,CWE-502,Deserialization of untrusted data,Roundcube,2026,0
+CVE-2025-68461,CWE-79,Other,Roundcube,2026,0
+CVE-2021-22175,CWE-918,Other,GitLab,2026,0
+CVE-2026-22769,CWE-798,Other,Dell,2026,0
+CVE-2020-7796,CWE-918,Other,Synacor,2026,0
+CVE-2024-7694,CWE-434,Other,TeamT5,2026,0
+CVE-2026-2441,CWE-416,Use after free,Google,2026,0
+CVE-2026-1731,CWE-78,OS command injection,BeyondTrust,2026,1
+CVE-2026-20700,CWE-119,Memory buffer overflow,Apple,2026,0
+CVE-2024-43468,CWE-89,Other,Microsoft,2026,0
+CVE-2025-15556,CWE-494,Other,Notepad++,2026,0
+CVE-2025-40536,CWE-693,Other,SolarWinds,2026,0
+CVE-2026-21513,CWE-693,Other,Microsoft,2026,0
+CVE-2026-21525,CWE-476,Other,Microsoft,2026,0
+CVE-2026-21510,CWE-693,Other,Microsoft,2026,0
+CVE-2026-21533,CWE-269,Other,Microsoft,2026,0
+CVE-2026-21519,CWE-843,Other,Microsoft,2026,0
+CVE-2026-21514,CWE-807,Other,Microsoft,2026,0
+CVE-2025-11953,CWE-78,OS command injection,React Native Community,2026,0
+CVE-2026-24423,CWE-306,Missing authentication,SmarterTools,2026,1
+CVE-2021-39935,CWE-918,Other,GitLab,2026,0
+CVE-2025-64328,CWE-78,OS command injection,Sangoma,2026,0
+CVE-2019-19006,CWE-287,Improper authentication,Sangoma,2026,0
+CVE-2025-40551,CWE-502,Deserialization of untrusted data,SolarWinds,2026,0
+CVE-2026-1281,CWE-94,Code injection,Ivanti,2026,0
+CVE-2026-24858,CWE-288,Other,Fortinet,2026,0
+CVE-2018-14634,CWE-190,Other,Linux,2026,0
+CVE-2025-52691,CWE-434,Other,SmarterTools,2026,1
+CVE-2026-23760,CWE-288,Other,SmarterTools,2026,1
+CVE-2026-24061,CWE-88,Other,GNU,2026,0
+CVE-2026-21509,CWE-807,Other,Microsoft,2026,0
+CVE-2024-37079,CWE-787,Out-of-bounds write,Broadcom,2026,0
+CVE-2025-68645,CWE-98,Other,Synacor,2026,0
+CVE-2025-34026,CWE-288,Other,Versa,2026,0
+CVE-2025-31125,CWE-200,Other,Vite,2026,0
+CVE-2025-54313,CWE-506,Other,Prettier,2026,0
+CVE-2026-20045,CWE-94,Code injection,Cisco,2026,0
+CVE-2026-20805,CWE-200,Other,Microsoft,2026,0
+CVE-2025-8110,CWE-22,Path traversal,Gogs,2026,0
+CVE-2009-0556,CWE-94,Code injection,Microsoft,2026,0
+CVE-2025-37164,CWE-94,Code injection,Hewlett Packard Enterprise (HPE),2026,0
+CVE-2025-14847,CWE-130,Other,MongoDB,2025,0
+CVE-2023-52163,CWE-862,Other,Digiever,2025,0
+CVE-2025-14733,CWE-787,Out-of-bounds write,WatchGuard,2025,1
+CVE-2025-59374,CWE-506,Other,ASUS,2025,0
+CVE-2025-40602,CWE-862,Other,SonicWall,2025,0
+CVE-2025-20393,CWE-20,Improper input validation,Cisco,2025,0
+CVE-2025-59718,CWE-347,Other,Fortinet,2025,0
+CVE-2025-14611,CWE-798,Other,Gladinet,2025,0
+CVE-2025-43529,CWE-416,Use after free,Apple,2025,0
+CVE-2018-4063,CWE-434,Other,Sierra Wireless,2025,0
+CVE-2025-58360,CWE-611,Other,OSGeo,2025,0
+CVE-2025-6218,CWE-22,Path traversal,RARLAB,2025,0
+CVE-2025-62221,CWE-416,Use after free,Microsoft,2025,0
+CVE-2022-37055,CWE-120,Other,D-Link,2025,0
+CVE-2025-66644,CWE-78,OS command injection,Array Networks,2025,0
+CVE-2021-26828,CWE-434,Other,OpenPLC,2025,0
+CVE-2021-26829,CWE-79,Other,OpenPLC,2025,0
+CVE-2025-61757,CWE-306,Missing authentication,Oracle,2025,0
+CVE-2025-13223,CWE-843,Other,Google,2025,0
+CVE-2025-58034,CWE-78,OS command injection,Fortinet,2025,0
+CVE-2025-64446,CWE-23,Other,Fortinet,2025,0
+CVE-2025-12480,CWE-284,Other,Gladinet,2025,0
+CVE-2025-62215,CWE-362,Other,Microsoft,2025,0
+CVE-2025-9242,CWE-787,Out-of-bounds write,WatchGuard,2025,0
+CVE-2025-21042,CWE-787,Out-of-bounds write,Samsung,2025,0
+CVE-2025-48703,CWE-78,OS command injection,CWP,2025,0
+CVE-2025-11371,CWE-552,Other,Gladinet,2025,0
+CVE-2025-41244,CWE-267,Other,Broadcom,2025,0
+CVE-2025-24893,CWE-95,Other,XWiki,2025,0
+CVE-2025-6204,CWE-94,Code injection,Dassault Systèmes,2025,0
+CVE-2025-6205,CWE-862,Other,Dassault Systèmes,2025,0
+CVE-2025-54236,CWE-20,Improper input validation,Adobe,2025,0
+CVE-2025-59287,CWE-502,Deserialization of untrusted data,Microsoft,2025,0
+CVE-2025-61932,CWE-940,Other,Motex,2025,0
+CVE-2025-2746,CWE-288,Other,Kentico,2025,0
+CVE-2025-2747,CWE-288,Other,Kentico,2025,0
+CVE-2025-33073,CWE-284,Other,Microsoft,2025,0
+CVE-2025-61884,CWE-918,Other,Oracle,2025,1
+CVE-2025-47827,CWE-324,Other,IGEL,2025,0
+CVE-2025-24990,CWE-822,Other,Microsoft,2025,0
+CVE-2025-59230,CWE-284,Other,Microsoft,2025,0
+CVE-2016-7836,CWE-287,Improper authentication,SKYSEA,2025,0
+CVE-2021-43798,CWE-22,Path traversal,Grafana Labs,2025,0
+CVE-2025-27915,CWE-79,Other,Synacor,2025,0
+CVE-2021-22555,CWE-787,Out-of-bounds write,Linux,2025,0
+CVE-2014-6278,CWE-78,OS command injection,GNU,2025,0
+CVE-2015-7755,CWE-287,Improper authentication,Juniper,2025,0
+CVE-2025-21043,CWE-787,Out-of-bounds write,Samsung,2025,0
+CVE-2025-4008,CWE-306,Missing authentication,Smartbedded,2025,0
+CVE-2025-32463,CWE-829,Other,Sudo,2025,0
+CVE-2025-59689,CWE-77,Other,Libraesva,2025,0
+CVE-2025-10035,CWE-502,Deserialization of untrusted data,Fortra,2025,1
+CVE-2025-20352,CWE-121,Other,Cisco,2025,0
+CVE-2021-21311,CWE-918,Other,Adminer,2025,0
+CVE-2025-20362,CWE-862,Other,Cisco,2025,0
+CVE-2025-20333,CWE-120,Other,Cisco,2025,0
+CVE-2025-10585,CWE-843,Other,Google,2025,0
+CVE-2025-5086,CWE-502,Deserialization of untrusted data,Dassault Systèmes,2025,0
+CVE-2025-38352,CWE-367,Other,Linux,2025,0
+CVE-2025-53690,CWE-502,Deserialization of untrusted data,Sitecore,2025,0
+CVE-2023-50224,CWE-290,Other,TP-Link,2025,0
+CVE-2025-9377,CWE-78,OS command injection,TP-Link,2025,0
+CVE-2020-24363,CWE-306,Missing authentication,TP-Link,2025,0
+CVE-2025-55177,CWE-863,Other,Meta Platforms,2025,0
+CVE-2025-57819,CWE-89,Other,Sangoma,2025,0
+CVE-2025-7775,CWE-119,Memory buffer overflow,Citrix,2025,0
+CVE-2025-48384,CWE-59,Other,Git,2025,0
+CVE-2024-8068,CWE-269,Other,Citrix,2025,0
+CVE-2024-8069,CWE-502,Deserialization of untrusted data,Citrix,2025,0
+CVE-2025-43300,CWE-787,Out-of-bounds write,Apple,2025,0
+CVE-2025-54948,CWE-78,OS command injection,Trend Micro,2025,0
+CVE-2025-8088,CWE-35,Other,RARLAB,2025,1
+CVE-2013-3893,CWE-399,Other,Microsoft,2025,0
+CVE-2020-25079,CWE-77,Other,D-Link,2025,0
+CVE-2022-40799,CWE-494,Other,D-Link,2025,0
+CVE-2023-2533,CWE-352,Other,PaperCut,2025,0
+CVE-2025-20337,CWE-74,Other,Cisco,2025,0
+CVE-2025-20281,CWE-74,Other,Cisco,2025,0
+CVE-2025-2775,CWE-611,Other,SysAid,2025,0
+CVE-2025-2776,CWE-611,Other,SysAid,2025,0
+CVE-2025-6558,CWE-20,Improper input validation,Google,2025,0
+CVE-2025-54309,CWE-420,Other,CrushFTP,2025,0
+CVE-2025-49704,CWE-94,Code injection,Microsoft,2025,1
+CVE-2025-49706,CWE-287,Improper authentication,Microsoft,2025,1
+CVE-2025-53770,CWE-502,Deserialization of untrusted data,Microsoft,2025,1
+CVE-2025-25257,CWE-89,Other,Fortinet,2025,0
+CVE-2025-47812,CWE-158,Other,Wing FTP Server,2025,0
+CVE-2025-5777,CWE-125,Other,Citrix,2025,1
+CVE-2019-9621,CWE-918,Other,Synacor,2025,0
+CVE-2019-5418,CWE-22,Path traversal,Rails,2025,0
+CVE-2016-10033,CWE-77,Other,PHP,2025,0
+CVE-2014-3931,CWE-119,Memory buffer overflow,Looking Glass,2025,0
+CVE-2025-6554,CWE-843,Other,Google,2025,0
+CVE-2025-48928,CWE-528,Other,TeleMessage,2025,0
+CVE-2025-48927,CWE-1188,Other,TeleMessage,2025,0
+CVE-2025-6543,CWE-119,Memory buffer overflow,Citrix,2025,0
+CVE-2019-6693,CWE-798,Other,Fortinet,2025,1
+CVE-2024-0769,CWE-22,Path traversal,D-Link,2025,0
+CVE-2024-54085,CWE-290,Other,AMI,2025,0
+CVE-2023-0386,CWE-282,Other,Linux,2025,0
+CVE-2023-33538,CWE-77,Other,TP-Link,2025,0
+CVE-2025-33053,CWE-73,Other,Microsoft,2025,0
+CVE-2025-24016,CWE-502,Deserialization of untrusted data,Wazuh,2025,0
+CVE-2024-42009,CWE-79,Other,Roundcube,2025,0
+CVE-2025-32433,CWE-306,Missing authentication,Erlang,2025,0
+CVE-2025-5419,CWE-125,Other,Google,2025,0
+CVE-2025-21479,CWE-863,Other,Qualcomm,2025,0
+CVE-2025-21480,CWE-863,Other,Qualcomm,2025,0
+CVE-2025-27038,CWE-416,Use after free,Qualcomm,2025,0
+CVE-2021-32030,CWE-287,Improper authentication,ASUS,2025,0
+CVE-2025-3935,CWE-287,Improper authentication,ConnectWise,2025,0
+CVE-2025-35939,CWE-472,Other,Craft CMS,2025,0
+CVE-2024-56145,CWE-94,Code injection,Craft CMS,2025,0
+CVE-2023-39780,CWE-78,OS command injection,ASUS,2025,0
+CVE-2025-4632,CWE-22,Path traversal,Samsung,2025,0
+CVE-2023-38950,CWE-22,Path traversal,ZKTeco,2025,0
+CVE-2024-27443,CWE-79,Other,Synacor,2025,0
+CVE-2025-27920,CWE-22,Path traversal,Srimax,2025,0
+CVE-2024-11182,CWE-79,Other,MDaemon,2025,0
+CVE-2025-4428,CWE-94,Code injection,Ivanti,2025,0
+CVE-2025-4427,CWE-288,Other,Ivanti,2025,0
+CVE-2025-42999,CWE-502,Deserialization of untrusted data,SAP,2025,1
+CVE-2024-12987,CWE-78,OS command injection,DrayTek,2025,0
+CVE-2025-32756,CWE-124,Other,Fortinet,2025,0
+CVE-2025-32709,CWE-416,Use after free,Microsoft,2025,0
+CVE-2025-30397,CWE-843,Other,Microsoft,2025,0
+CVE-2025-32706,CWE-122,Other,Microsoft,2025,0
+CVE-2025-32701,CWE-416,Use after free,Microsoft,2025,0
+CVE-2025-30400,CWE-416,Use after free,Microsoft,2025,0
+CVE-2025-47729,CWE-912,Other,TeleMessage,2025,0
+CVE-2024-11120,CWE-78,OS command injection,GeoVision,2025,0
+CVE-2024-6047,CWE-78,OS command injection,GeoVision,2025,0
+CVE-2025-27363,CWE-787,Out-of-bounds write,FreeType,2025,0
+CVE-2025-3248,CWE-306,Missing authentication,Langflow,2025,1
+CVE-2025-34028,CWE-22,Path traversal,Commvault,2025,0
+CVE-2024-58136,CWE-424,Other,Yiiframework,2025,0
+CVE-2024-38475,CWE-116,Other,Apache,2025,0
+CVE-2023-44221,CWE-78,OS command injection,SonicWall,2025,0
+CVE-2025-31324,CWE-434,Other,SAP,2025,1
+CVE-2025-1976,CWE-94,Code injection,Broadcom,2025,0
+CVE-2025-42599,CWE-121,Other,Qualitia,2025,0
+CVE-2025-24054,CWE-73,Other,Microsoft,2025,0
+CVE-2021-20035,CWE-78,OS command injection,SonicWall,2025,0
+CVE-2024-53150,CWE-125,Other,Linux,2025,0
+CVE-2024-53197,CWE-787,Out-of-bounds write,Linux,2025,0
+CVE-2025-29824,CWE-416,Use after free,Microsoft,2025,1
+CVE-2025-30406,CWE-321,Other,Gladinet,2025,0
+CVE-2025-31161,CWE-305,Other,CrushFTP,2025,1
+CVE-2025-22457,CWE-121,Other,Ivanti,2025,1
+CVE-2025-24813,CWE-44,Other,Apache,2025,0
+CVE-2024-20439,CWE-912,Other,Cisco,2025,0
+CVE-2019-9875,CWE-502,Deserialization of untrusted data,Sitecore,2025,0
+CVE-2019-9874,CWE-502,Deserialization of untrusted data,Sitecore,2025,0
+CVE-2025-30154,CWE-506,Other,reviewdog,2025,0
+CVE-2017-12637,CWE-22,Path traversal,SAP,2025,0
+CVE-2024-48248,CWE-36,Other,NAKIVO,2025,0
+CVE-2025-1316,CWE-78,OS command injection,Edimax,2025,0
+CVE-2025-30066,CWE-506,Other,tj-actions,2025,0
+CVE-2025-24472,CWE-288,Other,Fortinet,2025,1
+CVE-2025-21590,CWE-653,Other,Juniper,2025,0
+CVE-2025-24201,CWE-787,Out-of-bounds write,Apple,2025,0
+CVE-2025-24993,CWE-122,Other,Microsoft,2025,0
+CVE-2025-24991,CWE-125,Other,Microsoft,2025,0
+CVE-2025-24985,CWE-190,Other,Microsoft,2025,0
+CVE-2025-24984,CWE-532,Other,Microsoft,2025,0
+CVE-2025-24983,CWE-416,Use after free,Microsoft,2025,0
+CVE-2025-26633,CWE-707,Other,Microsoft,2025,1
+CVE-2024-13161,CWE-36,Other,Ivanti,2025,0
+CVE-2024-13160,CWE-36,Other,Ivanti,2025,0
+CVE-2024-13159,CWE-36,Other,Ivanti,2025,0
+CVE-2024-57968,CWE-434,Other,Advantive,2025,0
+CVE-2025-25181,CWE-89,Other,Advantive,2025,0
+CVE-2025-22226,CWE-125,Other,VMware,2025,0
+CVE-2025-22225,CWE-123,Other,VMware,2025,1
+CVE-2025-22224,CWE-367,Other,VMware,2025,0
+CVE-2024-50302,CWE-908,Other,Linux,2025,0
+CVE-2024-4885,CWE-22,Path traversal,Progress,2025,0
+CVE-2018-8639,CWE-404,Other,Microsoft,2025,1
+CVE-2022-43769,CWE-74,Other,Hitachi Vantara,2025,0
+CVE-2022-43939,CWE-647,Other,Hitachi Vantara,2025,0
+CVE-2023-20118,CWE-77,Other,Cisco,2025,0
+CVE-2023-34192,CWE-79,Other,Synacor,2025,0
+CVE-2024-49035,CWE-269,Other,Microsoft,2025,0
+CVE-2024-20953,CWE-502,Deserialization of untrusted data,Oracle,2025,0
+CVE-2017-3066,CWE-502,Deserialization of untrusted data,Adobe,2025,0
+CVE-2025-24989,CWE-284,Other,Microsoft,2025,0
+CVE-2025-0111,CWE-73,Other,Palo Alto Networks,2025,0
+CVE-2025-23209,CWE-94,Code injection,Craft CMS,2025,0
+CVE-2025-0108,CWE-306,Missing authentication,Palo Alto Networks,2025,0
+CVE-2024-53704,CWE-287,Improper authentication,SonicWall,2025,1
+CVE-2024-57727,CWE-22,Path traversal,SimpleHelp,2025,1
+CVE-2025-24200,CWE-863,Other,Apple,2025,0
+CVE-2024-41710,CWE-88,Other,Mitel,2025,0
+CVE-2024-40891,CWE-78,OS command injection,Zyxel,2025,0
+CVE-2024-40890,CWE-78,OS command injection,Zyxel,2025,0
+CVE-2025-21418,CWE-122,Other,Microsoft,2025,0
+CVE-2025-21391,CWE-59,Other,Microsoft,2025,0
+CVE-2025-0994,CWE-502,Deserialization of untrusted data,Trimble,2025,0
+CVE-2020-15069,CWE-120,Other,Sophos,2025,0
+CVE-2020-29574,CWE-89,Other,Sophos,2025,1
+CVE-2024-21413,CWE-20,Improper input validation,Microsoft,2025,0
+CVE-2022-23748,CWE-114,Other,Audinate,2025,0
+CVE-2025-0411,CWE-693,Other,7-Zip,2025,0
+CVE-2024-53104,CWE-787,Out-of-bounds write,Linux,2025,0
+CVE-2018-9276,CWE-78,OS command injection,Paessler,2025,0
+CVE-2024-29059,CWE-209,Other,Microsoft,2025,0
+CVE-2024-45195,CWE-425,Other,Apache,2025,0
+CVE-2025-24085,CWE-416,Use after free,Apple,2025,0
+CVE-2025-23006,CWE-502,Deserialization of untrusted data,SonicWall,2025,1
+CVE-2020-11023,CWE-79,Other,JQuery,2025,0
+CVE-2024-50603,CWE-78,OS command injection,Aviatrix,2025,0
+CVE-2025-21335,CWE-416,Use after free,Microsoft,2025,0
+CVE-2025-21334,CWE-416,Use after free,Microsoft,2025,0
+CVE-2025-21333,CWE-122,Other,Microsoft,2025,0
+CVE-2024-55591,CWE-288,Other,Fortinet,2025,1
+CVE-2023-48365,CWE-444,Other,Qlik,2025,1
+CVE-2024-12686,CWE-78,OS command injection,BeyondTrust,2025,0
+CVE-2025-0282,CWE-121,Other,Ivanti,2025,1
+CVE-2024-55550,CWE-22,Path traversal,Mitel,2025,1
+CVE-2024-41713,CWE-22,Path traversal,Mitel,2025,1
+CVE-2024-3393,CWE-754,Other,Palo Alto Networks,2024,0
+CVE-2021-44207,CWE-798,Other,Acclaim Systems,2024,0
+CVE-2024-12356,CWE-77,Other,BeyondTrust,2024,0
+CVE-2021-40407,CWE-78,OS command injection,Reolink,2024,0
+CVE-2019-11001,CWE-78,OS command injection,Reolink,2024,0
+CVE-2022-23227,CWE-306,Missing authentication,NUUO,2024,0
+CVE-2018-14933,CWE-78,OS command injection,NUUO,2024,0
+CVE-2024-55956,CWE-276,Other,Cleo,2024,1
+CVE-2024-35250,CWE-822,Other,Microsoft,2024,0
+CVE-2024-20767,CWE-284,Other,Adobe,2024,0
+CVE-2024-50623,CWE-434,Other,Cleo,2024,1
+CVE-2024-49138,CWE-122,Other,Microsoft,2024,0
+CVE-2024-51378,CWE-276,Other,CyberPersons,2024,1
+CVE-2024-11667,CWE-22,Path traversal,Zyxel,2024,1
+CVE-2024-11680,CWE-287,Improper authentication,ProjectSend,2024,0
+CVE-2023-45727,CWE-611,Other,North Grid,2024,0
+CVE-2023-28461,CWE-306,Missing authentication,Array Networks,2024,1
+CVE-2024-21287,CWE-863,Other,Oracle,2024,0
+CVE-2024-44309,CWE-79,Other,Apple,2024,0
+CVE-2024-38813,CWE-250,Other,VMware,2024,0
+CVE-2024-38812,CWE-122,Other,VMware,2024,0
+CVE-2024-9474,CWE-77,Other,Palo Alto Networks,2024,1
+CVE-2024-0012,CWE-306,Missing authentication,Palo Alto Networks,2024,1
+CVE-2024-1212,CWE-78,OS command injection,Progress,2024,0
+CVE-2024-9465,CWE-89,Other,Palo Alto Networks,2024,0
+CVE-2024-9463,CWE-78,OS command injection,Palo Alto Networks,2024,0
+CVE-2021-26086,CWE-22,Path traversal,Atlassian,2024,0
+CVE-2014-2120,CWE-79,Other,Cisco,2024,0
+CVE-2021-41277,CWE-200,Other,Metabase,2024,0
+CVE-2024-43451,CWE-73,Other,Microsoft,2024,0
+CVE-2024-49039,CWE-287,Improper authentication,Microsoft,2024,1
+CVE-2019-16278,CWE-22,Path traversal,Nostromo,2024,0
+CVE-2024-51567,CWE-276,Other,CyberPersons,2024,1
+CVE-2024-5910,CWE-306,Missing authentication,Palo Alto Networks,2024,0
+CVE-2024-8956,CWE-287,Improper authentication,PTZOptics,2024,0
+CVE-2024-8957,CWE-78,OS command injection,PTZOptics,2024,0
+CVE-2024-37383,CWE-79,Other,Roundcube,2024,0
+CVE-2024-20481,CWE-772,Other,Cisco,2024,0
+CVE-2024-47575,CWE-306,Missing authentication,Fortinet,2024,0
+CVE-2024-38094,CWE-502,Deserialization of untrusted data,Microsoft,2024,1
+CVE-2024-40711,CWE-502,Deserialization of untrusted data,Veeam,2024,1
+CVE-2024-28987,CWE-798,Other,SolarWinds,2024,0
+CVE-2024-9680,CWE-416,Use after free,Mozilla,2024,1
+CVE-2024-30088,CWE-367,Other,Microsoft,2024,1
+CVE-2024-9380,CWE-77,Other,Ivanti,2024,0
+CVE-2024-9379,CWE-89,Other,Ivanti,2024,0
+CVE-2024-23113,CWE-134,Other,Fortinet,2024,0
+CVE-2024-43573,CWE-79,Other,Microsoft,2024,0
+CVE-2024-43572,CWE-707,Other,Microsoft,2024,0
+CVE-2024-43047,CWE-416,Use after free,Qualcomm,2024,0
+CVE-2024-45519,CWE-284,Other,Synacor,2024,0
+CVE-2024-29824,CWE-89,Other,Ivanti,2024,0
+CVE-2019-0344,CWE-502,Deserialization of untrusted data,SAP,2024,0
+CVE-2020-15415,CWE-78,OS command injection,DrayTek,2024,0
+CVE-2023-25280,CWE-78,OS command injection,D-Link,2024,0
+CVE-2024-7593,CWE-287,Improper authentication,Ivanti,2024,0
+CVE-2024-8963,CWE-22,Path traversal,Ivanti,2024,0
+CVE-2022-21445,CWE-502,Deserialization of untrusted data,Oracle,2024,0
+CVE-2020-0618,CWE-502,Deserialization of untrusted data,Microsoft,2024,1
+CVE-2024-27348,CWE-284,Other,Apache,2024,0
+CVE-2014-0502,CWE-399,Other,Adobe,2024,0
+CVE-2013-0643,CWE-264,Other,Adobe,2024,0
+CVE-2014-0497,CWE-191,Other,Adobe,2024,0
+CVE-2024-6670,CWE-89,Other,Progress,2024,1
+CVE-2024-43461,CWE-451,Other,Microsoft,2024,0
+CVE-2024-8190,CWE-78,OS command injection,Ivanti,2024,0
+CVE-2024-38217,CWE-693,Other,Microsoft,2024,0
+CVE-2024-38014,CWE-269,Other,Microsoft,2024,0
+CVE-2024-38226,CWE-693,Other,Microsoft,2024,0
+CVE-2024-40766,CWE-284,Other,SonicWall,2024,1
+CVE-2017-1000253,CWE-119,Memory buffer overflow,Linux,2024,1
+CVE-2016-3714,CWE-20,Improper input validation,ImageMagick,2024,0
+CVE-2024-7262,CWE-22,Path traversal,Kingsoft,2024,0
+CVE-2021-20124,CWE-22,Path traversal,DrayTek,2024,0
+CVE-2021-20123,CWE-22,Path traversal,DrayTek,2024,0
+CVE-2024-7965,CWE-358,Other,Google,2024,0
+CVE-2024-38856,CWE-863,Other,Apache,2024,0
+CVE-2024-7971,CWE-843,Other,Google,2024,0
+CVE-2024-39717,CWE-434,Other,Versa,2024,0
+CVE-2022-0185,CWE-190,Other,Linux,2024,0
+CVE-2021-33045,CWE-287,Improper authentication,Dahua,2024,0
+CVE-2021-33044,CWE-287,Improper authentication,Dahua,2024,0
+CVE-2024-23897,CWE-27,Other,Jenkins,2024,1
+CVE-2024-28986,CWE-502,Deserialization of untrusted data,SolarWinds,2024,0
+CVE-2024-38107,CWE-416,Use after free,Microsoft,2024,0
+CVE-2024-38106,CWE-591,Other,Microsoft,2024,0
+CVE-2024-38193,CWE-416,Use after free,Microsoft,2024,0
+CVE-2024-38213,CWE-693,Other,Microsoft,2024,0
+CVE-2024-38178,CWE-843,Other,Microsoft,2024,0
+CVE-2024-38189,CWE-20,Improper input validation,Microsoft,2024,0
+CVE-2024-32113,CWE-22,Path traversal,Apache,2024,0
+CVE-2024-36971,CWE-416,Use after free,Android,2024,0
+CVE-2018-0824,CWE-502,Deserialization of untrusted data,Microsoft,2024,0
+CVE-2024-37085,CWE-305,Other,VMware,2024,1
+CVE-2023-45249,CWE-1393,Other,Acronis,2024,0
+CVE-2024-5217,CWE-184,Other,ServiceNow,2024,0
+CVE-2024-4879,CWE-1287,Other,ServiceNow,2024,0
+CVE-2024-39891,CWE-203,Other,Twilio,2024,0
+CVE-2012-4792,CWE-416,Use after free,Microsoft,2024,0
+CVE-2022-22948,CWE-276,Other,VMware,2024,0
+CVE-2024-28995,CWE-22,Path traversal,SolarWinds,2024,0
+CVE-2024-34102,CWE-611,Other,Adobe,2024,0
+CVE-2024-36401,CWE-95,Other,OSGeo,2024,0
+CVE-2024-23692,CWE-1336,Other,Rejetto,2024,1
+CVE-2024-38080,CWE-190,Other,Microsoft,2024,0
+CVE-2024-38112,CWE-451,Other,Microsoft,2024,0
+CVE-2024-20399,CWE-78,OS command injection,Cisco,2024,0
+CVE-2020-13965,CWE-80,Other,Roundcube,2024,0
+CVE-2022-2586,CWE-416,Use after free,Linux,2024,0
+CVE-2022-24816,CWE-94,Code injection,OSGeo,2024,0
+CVE-2024-4358,CWE-290,Other,Progress,2024,0
+CVE-2024-26169,CWE-269,Other,Microsoft,2024,1
+CVE-2024-32896,CWE-783,Other,Android,2024,0
+CVE-2024-4577,CWE-78,OS command injection,PHP Group,2024,1
+CVE-2024-4610,CWE-416,Use after free,Arm,2024,0
+CVE-2017-3506,CWE-78,OS command injection,Oracle,2024,0
+CVE-2024-1086,CWE-416,Use after free,Linux,2024,1
+CVE-2024-24919,CWE-200,Other,Check Point,2024,1
+CVE-2024-4978,CWE-506,Other,Justice AV Solutions,2024,0
+CVE-2024-5274,CWE-843,Other,Google,2024,0
+CVE-2020-17519,CWE-552,Other,Apache,2024,0
+CVE-2024-4947,CWE-843,Other,Google,2024,0
+CVE-2023-43208,CWE-502,Deserialization of untrusted data,NextGen Healthcare,2024,1
+CVE-2024-4761,CWE-787,Out-of-bounds write,Google,2024,0
+CVE-2021-40655,CWE-863,Other,D-Link,2024,0
+CVE-2014-100005,CWE-352,Other,D-Link,2024,0
+CVE-2024-30040,CWE-20,Improper input validation,Microsoft,2024,0
+CVE-2024-30051,CWE-122,Other,Microsoft,2024,1
+CVE-2024-4671,CWE-416,Use after free,Google,2024,0
+CVE-2023-7028,CWE-284,Other,GitLab,2024,0
+CVE-2024-29988,CWE-693,Other,Microsoft,2024,0
+CVE-2024-4040,CWE-1336,Other,CrushFTP,2024,0
+CVE-2024-20359,CWE-94,Code injection,Cisco,2024,0
+CVE-2024-20353,CWE-835,Other,Cisco,2024,0
+CVE-2024-3400,CWE-20,Improper input validation,Palo Alto Networks,2024,1
+CVE-2024-3273,CWE-77,Other,D-Link,2024,0
+CVE-2024-3272,CWE-798,Other,D-Link,2024,0
+CVE-2024-29748,CWE-280,Other,Android,2024,0
+CVE-2024-29745,CWE-908,Other,Android,2024,0
+CVE-2023-24955,CWE-94,Code injection,Microsoft,2024,1
+CVE-2019-7256,CWE-78,OS command injection,Nice,2024,0
+CVE-2021-44529,CWE-94,Code injection,Ivanti,2024,1
+CVE-2023-48788,CWE-89,Other,Fortinet,2024,1
+CVE-2024-27198,CWE-288,Other,JetBrains,2024,1
+CVE-2024-23225,CWE-787,Out-of-bounds write,Apple,2024,0
+CVE-2024-23296,CWE-787,Out-of-bounds write,Apple,2024,0
+CVE-2023-21237,CWE-200,Other,Android,2024,0
+CVE-2021-36380,CWE-78,OS command injection,Sunhillo,2024,0
+CVE-2024-21338,CWE-822,Other,Microsoft,2024,1
+CVE-2023-29360,CWE-822,Other,Microsoft,2024,0
+CVE-2024-1709,CWE-288,Other,ConnectWise,2024,1
+CVE-2020-3259,CWE-200,Other,Cisco,2024,1
+CVE-2024-21410,CWE-287,Improper authentication,Microsoft,2024,0
+CVE-2024-21412,CWE-693,Other,Microsoft,2024,1
+CVE-2024-21351,CWE-94,Code injection,Microsoft,2024,0
+CVE-2023-43770,CWE-79,Other,Roundcube,2024,0
+CVE-2024-21762,CWE-787,Out-of-bounds write,Fortinet,2024,1
+CVE-2023-4762,CWE-843,Other,Google,2024,0
+CVE-2022-48618,CWE-367,Other,Apple,2024,0
+CVE-2024-21893,CWE-918,Other,Ivanti,2024,1
+CVE-2023-22527,CWE-74,Other,Atlassian,2024,1
+CVE-2024-23222,CWE-843,Other,Apple,2024,0
+CVE-2023-34048,CWE-787,Out-of-bounds write,VMware,2024,0
+CVE-2023-35082,CWE-287,Improper authentication,Ivanti,2024,1
+CVE-2024-0519,CWE-787,Out-of-bounds write,Google,2024,0
+CVE-2023-6549,CWE-119,Memory buffer overflow,Citrix,2024,0
+CVE-2023-6548,CWE-94,Code injection,Citrix,2024,0
+CVE-2018-15133,CWE-502,Deserialization of untrusted data,Laravel,2024,0
+CVE-2023-29357,CWE-303,Other,Microsoft,2024,1
+CVE-2023-46805,CWE-287,Improper authentication,Ivanti,2024,1
+CVE-2024-21887,CWE-77,Other,Ivanti,2024,1
+CVE-2023-23752,CWE-284,Other,Joomla!,2024,0
+CVE-2016-20017,CWE-77,Other,D-Link,2024,0
+CVE-2023-27524,CWE-1188,Other,Apache,2024,0
+CVE-2023-29300,CWE-502,Deserialization of untrusted data,Adobe,2024,1
+CVE-2023-38203,CWE-502,Deserialization of untrusted data,Adobe,2024,1
+CVE-2023-7101,CWE-95,Other,Spreadsheet::ParseExcel,2024,0
+CVE-2023-7024,CWE-787,Out-of-bounds write,Google,2024,0
+CVE-2023-49897,CWE-78,OS command injection,FXC,2023,0
+CVE-2023-47565,CWE-78,OS command injection,QNAP,2023,0
+CVE-2023-6448,CWE-1188,Other,Unitronics,2023,0
+CVE-2023-41266,CWE-20,Improper input validation,Qlik,2023,1
+CVE-2023-41265,CWE-444,Other,Qlik,2023,1
+CVE-2023-33107,CWE-190,Other,Qualcomm,2023,0
+CVE-2023-33106,CWE-823,Other,Qualcomm,2023,0
+CVE-2023-33063,CWE-416,Use after free,Qualcomm,2023,0
+CVE-2022-22071,CWE-416,Use after free,Qualcomm,2023,0
+CVE-2023-42917,CWE-787,Out-of-bounds write,Apple,2023,0
+CVE-2023-42916,CWE-125,Other,Apple,2023,0
+CVE-2023-6345,CWE-190,Other,Google,2023,0
+CVE-2023-4911,CWE-122,Other,GNU,2023,0
+CVE-2023-1671,CWE-77,Other,Sophos,2023,0
+CVE-2023-36033,CWE-822,Other,Microsoft,2023,0
+CVE-2023-36036,CWE-122,Other,Microsoft,2023,0
+CVE-2023-47246,CWE-22,Path traversal,SysAid,2023,1
+CVE-2023-36844,CWE-473,Other,Juniper,2023,0
+CVE-2023-36845,CWE-473,Other,Juniper,2023,0
+CVE-2023-36846,CWE-306,Missing authentication,Juniper,2023,0
+CVE-2023-36847,CWE-306,Missing authentication,Juniper,2023,0
+CVE-2023-36851,CWE-306,Missing authentication,Juniper,2023,0
+CVE-2023-22518,CWE-863,Other,Atlassian,2023,1
+CVE-2023-46604,CWE-502,Deserialization of untrusted data,Apache,2023,1
+CVE-2023-46748,CWE-89,Other,F5,2023,0
+CVE-2023-46747,CWE-288,Other,F5,2023,1
+CVE-2023-5631,CWE-79,Other,Roundcube,2023,0
+CVE-2023-20273,CWE-78,OS command injection,Cisco,2023,0
+CVE-2023-4966,CWE-119,Memory buffer overflow,Citrix,2023,1
+CVE-2023-20198,CWE-420,Other,Cisco,2023,0
+CVE-2023-21608,CWE-416,Use after free,Adobe,2023,0
+CVE-2023-20109,CWE-787,Out-of-bounds write,Cisco,2023,0
+CVE-2023-41763,CWE-918,Other,Microsoft,2023,0
+CVE-2023-36563,CWE-20,Improper input validation,Microsoft,2023,0
+CVE-2023-44487,CWE-400,Other,IETF,2023,0
+CVE-2023-40044,CWE-502,Deserialization of untrusted data,Progress,2023,1
+CVE-2023-42793,CWE-288,Other,JetBrains,2023,1
+CVE-2023-28229,CWE-591,Other,Microsoft,2023,0
+CVE-2023-4211,CWE-416,Use after free,Arm,2023,0
+CVE-2023-5217,CWE-787,Out-of-bounds write,Google,2023,0
+CVE-2018-14667,CWE-94,Code injection,Red Hat,2023,0
+CVE-2023-41991,CWE-295,Other,Apple,2023,0
+CVE-2023-41992,CWE-754,Other,Apple,2023,0
+CVE-2023-41993,CWE-754,Other,Apple,2023,0
+CVE-2023-28434,CWE-269,Other,MinIO,2023,0
+CVE-2022-22265,CWE-703,Other,Samsung,2023,0
+CVE-2014-8361,CWE-20,Improper input validation,Realtek,2023,0
+CVE-2017-6884,CWE-78,OS command injection,Zyxel,2023,1
+CVE-2023-26369,CWE-787,Out-of-bounds write,Adobe,2023,0
+CVE-2023-20269,CWE-288,Other,Cisco,2023,1
+CVE-2023-4863,CWE-787,Out-of-bounds write,Google,2023,0
+CVE-2023-36761,CWE-668,Other,Microsoft,2023,0
+CVE-2023-36802,CWE-416,Use after free,Microsoft,2023,0
+CVE-2023-41064,CWE-120,Other,Apple,2023,0
+CVE-2023-33246,CWE-94,Code injection,Apache,2023,0
+CVE-2023-38831,CWE-351,Other,RARLAB,2023,1
+CVE-2023-32315,CWE-22,Path traversal,Ignite Realtime,2023,0
+CVE-2023-38035,CWE-863,Other,Ivanti,2023,1
+CVE-2023-27532,CWE-306,Missing authentication,Veeam,2023,1
+CVE-2023-26359,CWE-502,Deserialization of untrusted data,Adobe,2023,0
+CVE-2023-24489,CWE-284,Other,Citrix,2023,0
+CVE-2017-18368,CWE-78,OS command injection,Zyxel,2023,0
+CVE-2023-35081,CWE-22,Path traversal,Ivanti,2023,0
+CVE-2023-37580,CWE-79,Other,Synacor,2023,0
+CVE-2023-35078,CWE-287,Improper authentication,Ivanti,2023,1
+CVE-2023-29298,CWE-284,Other,Adobe,2023,0
+CVE-2023-38205,CWE-284,Other,Adobe,2023,0
+CVE-2023-3519,CWE-94,Code injection,Citrix,2023,1
+CVE-2023-36884,CWE-362,Other,Microsoft,2023,1
+CVE-2022-29303,CWE-78,OS command injection,SolarView,2023,0
+CVE-2023-35311,CWE-367,Other,Microsoft,2023,0
+CVE-2023-36874,CWE-59,Other,Microsoft,2023,0
+CVE-2022-31199,CWE-502,Deserialization of untrusted data,Netwrix,2023,1
+CVE-2021-29256,CWE-416,Use after free,Arm,2023,0
+CVE-2019-17621,CWE-78,OS command injection,D-Link,2023,0
+CVE-2019-20500,CWE-78,OS command injection,D-Link,2023,0
+CVE-2021-25487,CWE-125,Other,Samsung,2023,0
+CVE-2021-25489,CWE-20,Improper input validation,Samsung,2023,0
+CVE-2021-25394,CWE-416,Use after free,Samsung,2023,0
+CVE-2021-25395,CWE-362,Other,Samsung,2023,0
+CVE-2021-25371,CWE-912,Other,Samsung,2023,0
+CVE-2021-25372,CWE-787,Out-of-bounds write,Samsung,2023,0
+CVE-2023-32434,CWE-190,Other,Apple,2023,0
+CVE-2023-32435,CWE-787,Out-of-bounds write,Apple,2023,0
+CVE-2023-32439,CWE-843,Other,Apple,2023,0
+CVE-2023-20867,CWE-287,Improper authentication,VMware,2023,0
+CVE-2023-27992,CWE-78,OS command injection,Zyxel,2023,0
+CVE-2023-20887,CWE-77,Other,VMware,2023,0
+CVE-2020-35730,CWE-79,Other,Roundcube,2023,0
+CVE-2020-12641,CWE-78,OS command injection,Roundcube,2023,0
+CVE-2021-44026,CWE-89,Other,Roundcube,2023,0
+CVE-2016-9079,CWE-416,Use after free,Mozilla,2023,0
+CVE-2016-0165,CWE-264,Other,Microsoft,2023,0
+CVE-2023-27997,CWE-122,Other,Fortinet,2023,1
+CVE-2023-3079,CWE-843,Other,Google,2023,0
+CVE-2023-33009,CWE-120,Other,Zyxel,2023,0
+CVE-2023-33010,CWE-120,Other,Zyxel,2023,0
+CVE-2023-34362,CWE-89,Other,Progress,2023,1
+CVE-2023-28771,CWE-78,OS command injection,Zyxel,2023,0
+CVE-2023-2868,CWE-20,Improper input validation,Barracuda Networks,2023,0
+CVE-2023-28204,CWE-125,Other,Apple,2023,0
+CVE-2023-32373,CWE-416,Use after free,Apple,2023,0
+CVE-2016-6415,CWE-200,Other,Cisco,2023,0
+CVE-2023-21492,CWE-532,Other,Samsung,2023,0
+CVE-2023-25717,CWE-94,Code injection,Ruckus Wireless,2023,0
+CVE-2021-3560,CWE-863,Other,Red Hat,2023,0
+CVE-2014-0196,CWE-362,Other,Linux,2023,0
+CVE-2010-3904,CWE-20,Improper input validation,Linux,2023,0
+CVE-2015-5317,CWE-200,Other,Jenkins,2023,0
+CVE-2016-8735,CWE-284,Other,Apache,2023,0
+CVE-2023-29336,CWE-416,Use after free,Microsoft,2023,0
+CVE-2023-1389,CWE-77,Other,TP-Link,2023,0
+CVE-2021-45046,CWE-917,Other,Apache,2023,1
+CVE-2023-28432,CWE-200,Other,MinIO,2023,0
+CVE-2023-27350,CWE-284,Other,PaperCut,2023,1
+CVE-2023-2136,CWE-190,Other,Google,2023,0
+CVE-2017-6742,CWE-119,Memory buffer overflow,Cisco,2023,0
+CVE-2019-8526,CWE-416,Use after free,Apple,2023,0
+CVE-2023-2033,CWE-843,Other,Google,2023,0
+CVE-2023-20963,CWE-295,Other,Android,2023,0
+CVE-2023-29492,CWE-94,Code injection,Novi Survey,2023,0
+CVE-2023-28252,CWE-122,Other,Microsoft,2023,1
+CVE-2023-28205,CWE-416,Use after free,Apple,2023,0
+CVE-2023-28206,CWE-787,Out-of-bounds write,Apple,2023,0
+CVE-2021-27876,CWE-287,Improper authentication,Veritas,2023,1
+CVE-2021-27877,CWE-287,Improper authentication,Veritas,2023,1
+CVE-2021-27878,CWE-287,Improper authentication,Veritas,2023,1
+CVE-2019-1388,CWE-269,Other,Microsoft,2023,1
+CVE-2023-26083,CWE-401,Other,Arm,2023,0
+CVE-2022-27926,CWE-79,Other,Synacor,2023,0
+CVE-2013-3163,CWE-94,Code injection,Microsoft,2023,0
+CVE-2017-7494,CWE-94,Code injection,Samba,2023,1
+CVE-2022-42948,CWE-79,Other,Fortra,2023,0
+CVE-2022-39197,CWE-20,Improper input validation,Fortra,2023,0
+CVE-2021-30900,CWE-20,Improper input validation,Apple,2023,0
+CVE-2022-38181,CWE-416,Use after free,Arm,2023,0
+CVE-2023-0266,CWE-416,Use after free,Linux,2023,0
+CVE-2022-3038,CWE-416,Use after free,Google,2023,0
+CVE-2022-22706,CWE-119,Memory buffer overflow,Arm,2023,0
+CVE-2023-26360,CWE-284,Other,Adobe,2023,0
+CVE-2023-23397,CWE-294,Other,Microsoft,2023,0
+CVE-2023-24880,CWE-863,Other,Microsoft,2023,1
+CVE-2022-41328,CWE-22,Path traversal,Fortinet,2023,0
+CVE-2021-39144,CWE-94,Code injection,XStream,2023,0
+CVE-2020-5741,CWE-502,Deserialization of untrusted data,Plex,2023,0
+CVE-2022-28810,CWE-78,OS command injection,Zoho,2023,0
+CVE-2022-33891,CWE-78,OS command injection,Apache,2023,0
+CVE-2022-35914,CWE-74,Other,Teclib,2023,0
+CVE-2022-36537,CWE-441,Other,ZK Framework,2023,1
+CVE-2022-47986,CWE-502,Deserialization of untrusted data,IBM,2023,1
+CVE-2022-41223,CWE-94,Code injection,Mitel,2023,1
+CVE-2022-40765,CWE-77,Other,Mitel,2023,1
+CVE-2022-46169,CWE-74,Other,Cacti,2023,0
+CVE-2023-21715,CWE-863,Other,Microsoft,2023,0
+CVE-2023-23376,CWE-122,Other,Microsoft,2023,1
+CVE-2023-23529,CWE-843,Other,Apple,2023,0
+CVE-2023-21823,CWE-190,Other,Microsoft,2023,0
+CVE-2015-2291,CWE-20,Improper input validation,Intel,2023,1
+CVE-2022-24990,CWE-306,Missing authentication,TerraMaster,2023,1
+CVE-2023-0669,CWE-502,Deserialization of untrusted data,Fortra,2023,1
+CVE-2022-21587,CWE-306,Missing authentication,Oracle,2023,1
+CVE-2023-22952,CWE-20,Improper input validation,SugarCRM,2023,0
+CVE-2017-11357,CWE-20,Improper input validation,Telerik,2023,1
+CVE-2022-44877,CWE-78,OS command injection,CWP,2023,0
+CVE-2023-21674,CWE-416,Use after free,Microsoft,2023,0
+CVE-2018-5430,CWE-22,Path traversal,TIBCO,2022,0
+CVE-2018-18809,CWE-22,Path traversal,TIBCO,2022,0
+CVE-2022-42856,CWE-843,Other,Apple,2022,0
+CVE-2022-42475,CWE-197,Other,Fortinet,2022,1
+CVE-2022-44698,CWE-755,Other,Microsoft,2022,1
+CVE-2022-27518,CWE-664,Other,Citrix,2022,0
+CVE-2022-26500,CWE-22,Path traversal,Veeam,2022,1
+CVE-2022-26501,CWE-306,Missing authentication,Veeam,2022,1
+CVE-2022-4262,CWE-122,Other,Google,2022,0
+CVE-2021-35587,CWE-502,Deserialization of untrusted data,Oracle,2022,0
+CVE-2022-4135,CWE-787,Out-of-bounds write,Google,2022,0
+CVE-2022-41049,CWE-274,Other,Microsoft,2022,0
+CVE-2022-41091,CWE-863,Other,Microsoft,2022,1
+CVE-2022-41073,CWE-787,Out-of-bounds write,Microsoft,2022,1
+CVE-2022-41125,CWE-787,Out-of-bounds write,Microsoft,2022,0
+CVE-2022-41128,CWE-787,Out-of-bounds write,Microsoft,2022,0
+CVE-2021-25337,CWE-269,Other,Samsung,2022,0
+CVE-2021-25369,CWE-200,Other,Samsung,2022,0
+CVE-2021-25370,CWE-416,Use after free,Samsung,2022,0
+CVE-2022-3723,CWE-122,Other,Google,2022,0
+CVE-2022-42827,CWE-20,Improper input validation,Apple,2022,0
+CVE-2020-3433,CWE-427,Other,Cisco,2022,1
+CVE-2020-3153,CWE-427,Other,Cisco,2022,1
+CVE-2018-19322,CWE-749,Other,GIGABYTE,2022,1
+CVE-2022-41352,CWE-22,Path traversal,Synacor,2022,1
+CVE-2021-3493,CWE-862,Other,Linux,2022,0
+CVE-2022-40684,CWE-288,Other,Fortinet,2022,1
+CVE-2022-41033,CWE-843,Other,Microsoft,2022,0
+CVE-2022-41082,CWE-502,Deserialization of untrusted data,Microsoft,2022,1
+CVE-2022-41040,CWE-918,Other,Microsoft,2022,1
+CVE-2022-36804,CWE-78,OS command injection,Atlassian,2022,0
+CVE-2022-3236,CWE-94,Code injection,Sophos,2022,0
+CVE-2022-35405,CWE-502,Deserialization of untrusted data,Zoho,2022,0
+CVE-2022-40139,CWE-353,Other,Trend Micro,2022,0
+CVE-2013-6282,CWE-20,Improper input validation,Linux,2022,0
+CVE-2013-2597,CWE-119,Memory buffer overflow,Code Aurora,2022,0
+CVE-2013-2596,CWE-189,Other,Linux,2022,0
+CVE-2013-2094,CWE-189,Other,Linux,2022,0
+CVE-2010-2568,CWE-20,Improper input validation,Microsoft,2022,0
+CVE-2022-37969,CWE-20,Improper input validation,Microsoft,2022,1
+CVE-2022-32917,CWE-20,Improper input validation,Apple,2022,0
+CVE-2022-3075,CWE-20,Improper input validation,Google,2022,0
+CVE-2022-27593,CWE-610,Other,QNAP,2022,1
+CVE-2022-26258,CWE-78,OS command injection,D-Link,2022,0
+CVE-2018-7445,CWE-119,Memory buffer overflow,MikroTik,2022,0
+CVE-2018-6530,CWE-78,OS command injection,D-Link,2022,1
+CVE-2018-2628,CWE-502,Deserialization of untrusted data,Oracle,2022,0
+CVE-2018-13374,CWE-732,Other,Fortinet,2022,1
+CVE-2017-5521,CWE-200,Other,NETGEAR,2022,0
+CVE-2011-4723,CWE-310,Other,D-Link,2022,0
+CVE-2011-1823,CWE-189,Other,Android,2022,0
+CVE-2022-26352,CWE-22,Path traversal,dotCMS,2022,1
+CVE-2022-24706,CWE-1188,Other,Apache,2022,0
+CVE-2022-24112,CWE-290,Other,Apache,2022,0
+CVE-2022-22963,CWE-94,Code injection,VMware Tanzu,2022,0
+CVE-2022-2294,CWE-122,Other,WebRTC,2022,1
+CVE-2021-39226,CWE-287,Improper authentication,Grafana Labs,2022,0
+CVE-2021-38406,CWE-787,Out-of-bounds write,Delta Electronics,2022,0
+CVE-2021-31010,CWE-20,Improper input validation,Apple,2022,0
+CVE-2020-36193,CWE-22,Path traversal,PEAR,2022,0
+CVE-2020-28949,CWE-74,Other,PEAR,2022,0
+CVE-2022-0028,CWE-940,Other,Palo Alto Networks,2022,0
+CVE-2022-22536,CWE-444,Other,SAP,2022,0
+CVE-2022-32894,CWE-20,Improper input validation,Apple,2022,0
+CVE-2022-32893,CWE-20,Improper input validation,Apple,2022,0
+CVE-2022-2856,CWE-20,Improper input validation,Google,2022,0
+CVE-2022-26923,CWE-295,Other,Microsoft,2022,0
+CVE-2022-21971,CWE-824,Other,Microsoft,2022,0
+CVE-2022-27925,CWE-22,Path traversal,Synacor,2022,1
+CVE-2022-37042,CWE-23,Other,Synacor,2022,1
+CVE-2022-30333,CWE-22,Path traversal,RARLAB,2022,1
+CVE-2022-27924,CWE-93,Other,Synacor,2022,1
+CVE-2022-26138,CWE-798,Other,Atlassian,2022,0
+CVE-2022-22047,CWE-426,Other,Microsoft,2022,0
+CVE-2022-26925,CWE-306,Missing authentication,Microsoft,2022,0
+CVE-2022-29499,CWE-20,Improper input validation,Mitel,2022,1
+CVE-2021-30533,CWE-863,Other,Google,2022,0
+CVE-2021-4034,CWE-787,Out-of-bounds write,Red Hat,2022,1
+CVE-2021-30983,CWE-119,Memory buffer overflow,Apple,2022,0
+CVE-2020-3837,CWE-787,Out-of-bounds write,Apple,2022,0
+CVE-2020-9907,CWE-787,Out-of-bounds write,Apple,2022,0
+CVE-2019-8605,CWE-416,Use after free,Apple,2022,0
+CVE-2018-4344,CWE-119,Memory buffer overflow,Apple,2022,0
+CVE-2022-30190,CWE-610,Other,Microsoft,2022,1
+CVE-2021-38163,CWE-23,Other,SAP,2022,0
+CVE-2016-2386,CWE-89,Other,SAP,2022,0
+CVE-2016-2388,CWE-200,Other,SAP,2022,0
+CVE-2019-7195,CWE-22,Path traversal,QNAP,2022,1
+CVE-2019-7194,CWE-22,Path traversal,QNAP,2022,1
+CVE-2019-7193,CWE-20,Improper input validation,QNAP,2022,1
+CVE-2019-7192,CWE-863,Other,QNAP,2022,1
+CVE-2019-5825,CWE-787,Out-of-bounds write,Google,2022,0
+CVE-2019-15271,CWE-502,Deserialization of untrusted data,Cisco,2022,0
+CVE-2018-6065,CWE-190,Other,Google,2022,0
+CVE-2018-4990,CWE-415,Other,Adobe,2022,0
+CVE-2018-17480,CWE-787,Out-of-bounds write,Google,2022,0
+CVE-2017-6862,CWE-119,Memory buffer overflow,NETGEAR,2022,0
+CVE-2017-5070,CWE-843,Other,Google,2022,0
+CVE-2017-5030,CWE-125,Other,Google,2022,0
+CVE-2016-5198,CWE-125,Other,Google,2022,0
+CVE-2016-1646,CWE-119,Memory buffer overflow,Google,2022,0
+CVE-2013-1331,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2012-5054,CWE-189,Other,Adobe,2022,0
+CVE-2012-1889,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2012-0767,CWE-79,Other,Adobe,2022,0
+CVE-2012-0754,CWE-787,Out-of-bounds write,Adobe,2022,0
+CVE-2012-0151,CWE-20,Improper input validation,Microsoft,2022,0
+CVE-2011-2462,CWE-787,Out-of-bounds write,Adobe,2022,0
+CVE-2010-2883,CWE-119,Memory buffer overflow,Adobe,2022,0
+CVE-2010-2572,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2010-1297,CWE-787,Out-of-bounds write,Adobe,2022,0
+CVE-2009-4324,CWE-399,Other,Adobe,2022,0
+CVE-2009-3953,CWE-119,Memory buffer overflow,Adobe,2022,0
+CVE-2009-1862,CWE-94,Code injection,Adobe,2022,0
+CVE-2009-0563,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2009-0557,CWE-94,Code injection,Microsoft,2022,0
+CVE-2007-5659,CWE-119,Memory buffer overflow,Adobe,2022,0
+CVE-2006-2492,CWE-120,Other,Microsoft,2022,0
+CVE-2022-26134,CWE-917,Other,Atlassian,2022,1
+CVE-2016-3393,CWE-284,Other,Microsoft,2022,0
+CVE-2016-7256,CWE-284,Other,Microsoft,2022,0
+CVE-2016-1010,CWE-190,Other,Adobe,2022,0
+CVE-2016-0984,CWE-416,Use after free,Adobe,2022,0
+CVE-2016-0034,CWE-20,Improper input validation,Microsoft,2022,1
+CVE-2015-0310,CWE-264,Other,Adobe,2022,0
+CVE-2015-0016,CWE-22,Path traversal,Microsoft,2022,0
+CVE-2015-0071,CWE-264,Other,Microsoft,2022,0
+CVE-2015-2360,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2015-2425,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2015-1769,CWE-264,Other,Microsoft,2022,0
+CVE-2015-4495,CWE-200,Other,Mozilla,2022,0
+CVE-2015-8651,CWE-189,Other,Adobe,2022,0
+CVE-2015-6175,CWE-264,Other,Microsoft,2022,0
+CVE-2015-1671,CWE-19,Other,Microsoft,2022,0
+CVE-2014-4148,CWE-94,Code injection,Microsoft,2022,0
+CVE-2014-8439,CWE-119,Memory buffer overflow,Adobe,2022,0
+CVE-2014-4123,CWE-264,Other,Microsoft,2022,0
+CVE-2014-2817,CWE-264,Other,Microsoft,2022,0
+CVE-2014-4077,CWE-264,Other,Microsoft,2022,0
+CVE-2014-3153,CWE-269,Other,Linux,2022,0
+CVE-2013-7331,CWE-200,Other,Microsoft,2022,0
+CVE-2013-3993,CWE-264,Other,IBM,2022,1
+CVE-2013-3896,CWE-20,Improper input validation,Microsoft,2022,0
+CVE-2013-0422,CWE-264,Other,Oracle,2022,1
+CVE-2010-1428,CWE-264,Other,Red Hat,2022,1
+CVE-2010-0738,CWE-264,Other,Red Hat,2022,1
+CVE-2018-8611,CWE-404,Other,Microsoft,2022,0
+CVE-2018-19953,CWE-79,Other,QNAP,2022,1
+CVE-2018-19949,CWE-20,Improper input validation,QNAP,2022,1
+CVE-2018-19943,CWE-79,Other,QNAP,2022,1
+CVE-2017-0147,CWE-200,Other,Microsoft,2022,1
+CVE-2017-0022,CWE-200,Other,Microsoft,2022,0
+CVE-2017-0005,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2017-0149,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2017-8291,CWE-704,Other,Artifex,2022,0
+CVE-2017-8543,CWE-281,Other,Microsoft,2022,0
+CVE-2017-18362,CWE-89,Other,Kaseya,2022,1
+CVE-2016-0162,CWE-200,Other,Microsoft,2022,0
+CVE-2016-3351,CWE-200,Other,Microsoft,2022,1
+CVE-2016-4655,CWE-200,Other,Apple,2022,0
+CVE-2016-4656,CWE-264,Other,Apple,2022,0
+CVE-2016-4657,CWE-119,Memory buffer overflow,Apple,2022,0
+CVE-2016-6366,CWE-119,Memory buffer overflow,Cisco,2022,0
+CVE-2016-6367,CWE-77,Other,Cisco,2022,0
+CVE-2016-3298,CWE-200,Other,Microsoft,2022,0
+CVE-2022-20821,CWE-923,Other,Cisco,2022,0
+CVE-2021-1048,CWE-416,Use after free,Android,2022,0
+CVE-2021-0920,CWE-362,Other,Android,2022,0
+CVE-2021-30883,CWE-787,Out-of-bounds write,Apple,2022,0
+CVE-2020-1027,CWE-787,Out-of-bounds write,Microsoft,2022,0
+CVE-2019-7286,CWE-787,Out-of-bounds write,Apple,2022,0
+CVE-2019-7287,CWE-787,Out-of-bounds write,Apple,2022,0
+CVE-2019-5786,CWE-416,Use after free,Google,2022,0
+CVE-2019-13720,CWE-416,Use after free,Google,2022,0
+CVE-2019-11707,CWE-843,Other,Mozilla,2022,0
+CVE-2019-11708,CWE-20,Improper input validation,Mozilla,2022,0
+CVE-2019-8720,CWE-119,Memory buffer overflow,WebKitGTK,2022,0
+CVE-2019-18426,CWE-79,Other,Meta Platforms,2022,0
+CVE-2019-1385,CWE-59,Other,Microsoft,2022,1
+CVE-2019-1130,CWE-59,Other,Microsoft,2022,1
+CVE-2018-5002,CWE-787,Out-of-bounds write,Adobe,2022,0
+CVE-2022-30525,CWE-78,OS command injection,Zyxel,2022,0
+CVE-2022-22947,CWE-94,Code injection,VMware,2022,0
+CVE-2022-1388,CWE-306,Missing authentication,F5,2022,1
+CVE-2021-1789,CWE-843,Other,Apple,2022,0
+CVE-2019-8506,CWE-843,Other,Apple,2022,0
+CVE-2014-4113,CWE-264,Other,Microsoft,2022,0
+CVE-2014-0322,CWE-416,Use after free,Microsoft,2022,0
+CVE-2014-0160,CWE-125,Other,OpenSSL,2022,0
+CVE-2022-29464,CWE-22,Path traversal,WSO2,2022,1
+CVE-2022-26904,CWE-362,Other,Microsoft,2022,0
+CVE-2022-21919,CWE-1386,Other,Microsoft,2022,0
+CVE-2022-0847,CWE-665,Other,Linux,2022,0
+CVE-2018-6882,CWE-79,Other,Synacor,2022,1
+CVE-2019-3568,CWE-122,Other,Meta Platforms,2022,0
+CVE-2022-22960,CWE-250,Other,VMware,2022,0
+CVE-2022-1364,CWE-843,Other,Google,2022,0
+CVE-2019-3929,CWE-79,Other,Crestron,2022,0
+CVE-2019-16057,CWE-78,OS command injection,D-Link,2022,1
+CVE-2018-7841,CWE-89,Other,Schneider Electric,2022,0
+CVE-2016-4523,CWE-119,Memory buffer overflow,Trihedral,2022,0
+CVE-2014-0780,CWE-22,Path traversal,InduSoft,2022,0
+CVE-2010-5330,CWE-77,Other,Ubiquiti,2022,0
+CVE-2007-3010,CWE-20,Improper input validation,Alcatel,2022,0
+CVE-2022-22954,CWE-94,Code injection,VMware,2022,1
+CVE-2022-24521,CWE-787,Out-of-bounds write,Microsoft,2022,1
+CVE-2015-5123,CWE-416,Use after free,Adobe,2022,0
+CVE-2015-5122,CWE-416,Use after free,Adobe,2022,0
+CVE-2015-3113,CWE-119,Memory buffer overflow,Adobe,2022,0
+CVE-2015-2502,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2015-0313,CWE-416,Use after free,Adobe,2022,0
+CVE-2021-42287,CWE-269,Other,Microsoft,2022,1
+CVE-2021-42278,CWE-20,Improper input validation,Microsoft,2022,1
+CVE-2021-39793,CWE-787,Out-of-bounds write,Google,2022,0
+CVE-2021-27852,CWE-502,Deserialization of untrusted data,Checkbox,2022,0
+CVE-2021-22600,CWE-415,Other,Linux,2022,0
+CVE-2020-2509,CWE-77,Other,QNAP,2022,0
+CVE-2017-11317,CWE-326,Other,Telerik,2022,0
+CVE-2021-3156,CWE-122,Other,Sudo,2022,0
+CVE-2021-31166,CWE-416,Use after free,Microsoft,2022,0
+CVE-2017-0148,CWE-20,Improper input validation,Microsoft,2022,1
+CVE-2022-22965,CWE-94,Code injection,VMware,2022,0
+CVE-2022-22675,CWE-20,Improper input validation,Apple,2022,0
+CVE-2022-22674,CWE-20,Improper input validation,Apple,2022,0
+CVE-2021-45382,CWE-78,OS command injection,D-Link,2022,0
+CVE-2022-26871,CWE-184,Other,Trend Micro,2022,0
+CVE-2022-1040,CWE-158,Other,Sophos,2022,0
+CVE-2021-34484,CWE-269,Other,Microsoft,2022,0
+CVE-2021-28799,CWE-285,Other,QNAP,2022,1
+CVE-2021-21551,CWE-782,Other,Dell,2022,0
+CVE-2018-10562,CWE-78,OS command injection,Dasan,2022,1
+CVE-2018-10561,CWE-287,Improper authentication,Dasan,2022,0
+CVE-2022-1096,CWE-843,Other,Google,2022,0
+CVE-2022-0543,CWE-862,Other,Redis,2022,0
+CVE-2021-34486,CWE-416,Use after free,Microsoft,2022,0
+CVE-2021-26085,CWE-425,Other,Atlassian,2022,1
+CVE-2021-20028,CWE-89,Other,SonicWall,2022,1
+CVE-2019-7483,CWE-22,Path traversal,SonicWall,2022,0
+CVE-2018-8406,CWE-404,Other,Microsoft,2022,1
+CVE-2018-8405,CWE-404,Other,Microsoft,2022,1
+CVE-2017-0059,CWE-200,Other,Microsoft,2022,0
+CVE-2017-0037,CWE-704,Other,Microsoft,2022,0
+CVE-2016-7201,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2016-7200,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2016-0189,CWE-119,Memory buffer overflow,Microsoft,2022,1
+CVE-2016-0151,CWE-264,Other,Microsoft,2022,1
+CVE-2016-0040,CWE-264,Other,Microsoft,2022,0
+CVE-2015-2426,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2015-2419,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2015-1770,CWE-19,Other,Microsoft,2022,0
+CVE-2013-3660,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2013-2729,CWE-189,Other,Adobe,2022,0
+CVE-2013-2551,CWE-416,Use after free,Microsoft,2022,1
+CVE-2013-1690,CWE-119,Memory buffer overflow,Mozilla,2022,0
+CVE-2012-2539,CWE-399,Other,Microsoft,2022,0
+CVE-2012-2034,CWE-119,Memory buffer overflow,Adobe,2022,0
+CVE-2012-0518,CWE-601,Other,Oracle,2022,0
+CVE-2011-2005,CWE-264,Other,Microsoft,2022,0
+CVE-2010-4398,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2022-26318,CWE-122,Other,WatchGuard,2022,0
+CVE-2022-26143,CWE-306,Missing authentication,Mitel,2022,0
+CVE-2022-21999,CWE-40,Other,Microsoft,2022,1
+CVE-2021-42237,CWE-502,Deserialization of untrusted data,Sitecore,2022,1
+CVE-2021-22941,CWE-284,Other,Citrix,2022,1
+CVE-2020-9377,CWE-78,OS command injection,D-Link,2022,0
+CVE-2020-9054,CWE-78,OS command injection,Zyxel,2022,0
+CVE-2020-7247,CWE-755,Other,OpenBSD,2022,0
+CVE-2020-5410,CWE-23,Other,VMware Tanzu,2022,0
+CVE-2020-25223,CWE-78,OS command injection,Sophos,2022,0
+CVE-2020-2506,CWE-284,Other,QNAP Systems,2022,0
+CVE-2020-2021,CWE-347,Other,Palo Alto Networks,2022,1
+CVE-2020-1956,CWE-78,OS command injection,Apache,2022,0
+CVE-2020-1631,CWE-22,Path traversal,Juniper,2022,0
+CVE-2019-6340,CWE-502,Deserialization of untrusted data,Drupal,2022,0
+CVE-2019-16920,CWE-78,OS command injection,D-Link,2022,0
+CVE-2019-15107,CWE-78,OS command injection,Webmin,2022,1
+CVE-2019-12991,CWE-78,OS command injection,Citrix,2022,0
+CVE-2019-12989,CWE-89,Other,Citrix,2022,0
+CVE-2019-11043,CWE-120,Other,PHP,2022,1
+CVE-2019-10068,CWE-502,Deserialization of untrusted data,Kentico,2022,0
+CVE-2018-8414,CWE-20,Improper input validation,Microsoft,2022,0
+CVE-2018-8373,CWE-787,Out-of-bounds write,Microsoft,2022,0
+CVE-2018-6961,CWE-78,OS command injection,VMware,2022,0
+CVE-2018-14839,CWE-78,OS command injection,LG,2022,0
+CVE-2018-1273,CWE-94,Code injection,VMware Tanzu,2022,1
+CVE-2018-11138,CWE-78,OS command injection,Quest,2022,1
+CVE-2018-0147,CWE-20,Improper input validation,Cisco,2022,0
+CVE-2018-0125,CWE-20,Improper input validation,Cisco,2022,0
+CVE-2017-6334,CWE-78,OS command injection,NETGEAR,2022,0
+CVE-2017-6316,CWE-20,Improper input validation,Citrix,2022,0
+CVE-2017-3881,CWE-20,Improper input validation,Cisco,2022,0
+CVE-2017-12617,CWE-434,Other,Apache,2022,0
+CVE-2017-12615,CWE-434,Other,Apache,2022,1
+CVE-2017-0146,CWE-20,Improper input validation,Microsoft,2022,1
+CVE-2016-7892,CWE-416,Use after free,Adobe,2022,0
+CVE-2016-1555,CWE-77,Other,NETGEAR,2022,0
+CVE-2016-11021,CWE-78,OS command injection,D-Link,2022,0
+CVE-2016-10174,CWE-119,Memory buffer overflow,NETGEAR,2022,0
+CVE-2016-0752,CWE-22,Path traversal,Rails,2022,0
+CVE-2015-4068,CWE-22,Path traversal,Arcserve,2022,0
+CVE-2015-3035,CWE-22,Path traversal,TP-Link,2022,0
+CVE-2015-1427,CWE-284,Other,Elastic,2022,0
+CVE-2015-1187,CWE-287,Improper authentication,D-Link and TRENDnet,2022,0
+CVE-2015-0666,CWE-22,Path traversal,Cisco,2022,0
+CVE-2014-6332,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2014-6324,CWE-264,Other,Microsoft,2022,0
+CVE-2014-6287,CWE-94,Code injection,Rejetto,2022,0
+CVE-2014-3120,CWE-284,Other,Elastic,2022,0
+CVE-2014-0130,CWE-22,Path traversal,Rails,2022,0
+CVE-2013-5223,CWE-79,Other,D-Link,2022,0
+CVE-2013-4810,CWE-94,Code injection,Hewlett Packard (HP),2022,0
+CVE-2013-2251,CWE-20,Improper input validation,Apache,2022,0
+CVE-2012-1823,CWE-20,Improper input validation,PHP,2022,0
+CVE-2010-4345,CWE-264,Other,Exim,2022,0
+CVE-2010-4344,CWE-119,Memory buffer overflow,Exim,2022,0
+CVE-2010-3035,CWE-20,Improper input validation,Cisco,2022,0
+CVE-2010-2861,CWE-22,Path traversal,Adobe,2022,1
+CVE-2009-2055,CWE-20,Improper input validation,Cisco,2022,0
+CVE-2009-1151,CWE-94,Code injection,phpMyAdmin,2022,0
+CVE-2009-0927,CWE-20,Improper input validation,Adobe,2022,0
+CVE-2020-5135,CWE-120,Other,SonicWall,2022,1
+CVE-2019-1315,CWE-59,Other,Microsoft,2022,1
+CVE-2019-1253,CWE-59,Other,Microsoft,2022,1
+CVE-2019-1129,CWE-59,Other,Microsoft,2022,1
+CVE-2019-1069,CWE-59,Other,Microsoft,2022,1
+CVE-2019-1064,CWE-59,Other,Microsoft,2022,1
+CVE-2019-0841,CWE-59,Other,Microsoft,2022,1
+CVE-2019-0543,CWE-287,Improper authentication,Microsoft,2022,1
+CVE-2018-8120,CWE-404,Other,Microsoft,2022,1
+CVE-2017-0101,CWE-119,Memory buffer overflow,Microsoft,2022,1
+CVE-2016-3309,CWE-264,Other,Microsoft,2022,1
+CVE-2015-2546,CWE-119,Memory buffer overflow,Microsoft,2022,1
+CVE-2022-26486,CWE-416,Use after free,Mozilla,2022,0
+CVE-2022-26485,CWE-416,Use after free,Mozilla,2022,0
+CVE-2021-21973,CWE-20,Improper input validation,VMware,2022,0
+CVE-2020-8218,CWE-94,Code injection,Pulse Secure,2022,0
+CVE-2019-11581,CWE-74,Other,Atlassian,2022,0
+CVE-2017-6077,CWE-78,OS command injection,NETGEAR,2022,0
+CVE-2016-6277,CWE-352,Other,NETGEAR,2022,0
+CVE-2013-0631,CWE-200,Other,Adobe,2022,0
+CVE-2013-0629,CWE-264,Other,Adobe,2022,0
+CVE-2013-0625,CWE-255,Other,Adobe,2022,0
+CVE-2022-20708,CWE-121,Other,Cisco,2022,0
+CVE-2022-20703,CWE-347,Other,Cisco,2022,0
+CVE-2022-20701,CWE-121,Other,Cisco,2022,0
+CVE-2022-20700,CWE-121,Other,Cisco,2022,0
+CVE-2022-20699,CWE-785,Other,Cisco,2022,0
+CVE-2021-41379,CWE-1386,Other,Microsoft,2022,1
+CVE-2020-11899,CWE-125,Other,Treck TCP/IP stack,2022,0
+CVE-2019-16928,CWE-787,Out-of-bounds write,Exim,2022,0
+CVE-2019-1652,CWE-20,Improper input validation,Cisco,2022,0
+CVE-2018-8298,CWE-843,Other,ChakraCore,2022,0
+CVE-2018-0180,CWE-399,Other,Cisco,2022,0
+CVE-2018-0179,CWE-399,Other,Cisco,2022,0
+CVE-2018-0175,CWE-119,Memory buffer overflow,Cisco,2022,0
+CVE-2018-0174,CWE-20,Improper input validation,Cisco,2022,0
+CVE-2018-0173,CWE-20,Improper input validation,Cisco,2022,0
+CVE-2018-0172,CWE-20,Improper input validation,Cisco,2022,0
+CVE-2018-0167,CWE-119,Memory buffer overflow,Cisco,2022,0
+CVE-2018-0161,CWE-399,Other,Cisco,2022,0
+CVE-2018-0159,CWE-20,Improper input validation,Cisco,2022,0
+CVE-2018-0158,CWE-20,Improper input validation,Cisco,2022,0
+CVE-2018-0156,CWE-399,Other,Cisco,2022,0
+CVE-2018-0155,CWE-388,Other,Cisco,2022,0
+CVE-2018-0154,CWE-399,Other,Cisco,2022,0
+CVE-2018-0151,CWE-119,Memory buffer overflow,Cisco,2022,0
+CVE-2017-8540,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2017-6744,CWE-119,Memory buffer overflow,Cisco,2022,0
+CVE-2017-6743,CWE-119,Memory buffer overflow,Cisco,2022,0
+CVE-2017-6740,CWE-119,Memory buffer overflow,Cisco,2022,0
+CVE-2017-6739,CWE-119,Memory buffer overflow,Cisco,2022,0
+CVE-2017-6738,CWE-119,Memory buffer overflow,Cisco,2022,0
+CVE-2017-6737,CWE-119,Memory buffer overflow,Cisco,2022,0
+CVE-2017-6736,CWE-119,Memory buffer overflow,Cisco,2022,0
+CVE-2017-6627,CWE-399,Other,Cisco,2022,0
+CVE-2017-12319,CWE-20,Improper input validation,Cisco,2022,0
+CVE-2017-12240,CWE-20,Improper input validation,Cisco,2022,0
+CVE-2017-12238,CWE-399,Other,Cisco,2022,0
+CVE-2017-12237,CWE-399,Other,Cisco,2022,0
+CVE-2017-12235,CWE-20,Improper input validation,Cisco,2022,0
+CVE-2017-12234,CWE-20,Improper input validation,Cisco,2022,0
+CVE-2017-12233,CWE-20,Improper input validation,Cisco,2022,0
+CVE-2017-12232,CWE-399,Other,Cisco,2022,0
+CVE-2017-12231,CWE-399,Other,Cisco,2022,0
+CVE-2017-11826,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2017-11292,CWE-843,Other,Adobe,2022,0
+CVE-2017-0261,CWE-416,Use after free,Microsoft,2022,0
+CVE-2016-8562,CWE-20,Improper input validation,Siemens,2022,0
+CVE-2016-7855,CWE-416,Use after free,Adobe,2022,0
+CVE-2016-7262,CWE-20,Improper input validation,Microsoft,2022,0
+CVE-2016-7193,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2016-5195,CWE-362,Other,Linux,2022,0
+CVE-2016-0099,CWE-264,Other,Microsoft,2022,1
+CVE-2015-5119,CWE-119,Memory buffer overflow,Adobe,2022,0
+CVE-2015-3043,CWE-787,Out-of-bounds write,Adobe,2022,0
+CVE-2015-2545,CWE-20,Improper input validation,Microsoft,2022,0
+CVE-2015-2424,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2015-2387,CWE-264,Other,Microsoft,2022,0
+CVE-2015-1701,CWE-264,Other,Microsoft,2022,1
+CVE-2015-1642,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2014-4114,CWE-20,Improper input validation,Microsoft,2022,0
+CVE-2014-0496,CWE-399,Other,Adobe,2022,0
+CVE-2013-5065,CWE-20,Improper input validation,Microsoft,2022,0
+CVE-2013-3897,CWE-399,Other,Microsoft,2022,0
+CVE-2013-3346,CWE-119,Memory buffer overflow,Adobe,2022,0
+CVE-2013-1675,CWE-119,Memory buffer overflow,Mozilla,2022,0
+CVE-2013-1347,CWE-94,Code injection,Microsoft,2022,0
+CVE-2013-0641,CWE-120,Other,Adobe,2022,0
+CVE-2013-0640,CWE-787,Out-of-bounds write,Adobe,2022,0
+CVE-2013-0632,CWE-200,Other,Adobe,2022,0
+CVE-2012-1856,CWE-94,Code injection,Microsoft,2022,0
+CVE-2011-1889,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2011-0611,CWE-843,Other,Adobe,2022,0
+CVE-2010-3333,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2010-0232,CWE-264,Other,Microsoft,2022,0
+CVE-2010-0188,CWE-94,Code injection,Adobe,2022,1
+CVE-2009-3129,CWE-94,Code injection,Microsoft,2022,0
+CVE-2009-1123,CWE-20,Improper input validation,Microsoft,2022,0
+CVE-2008-3431,CWE-264,Other,Oracle,2022,0
+CVE-2008-2992,CWE-119,Memory buffer overflow,Adobe,2022,1
+CVE-2004-0210,CWE-120,Other,Microsoft,2022,0
+CVE-2022-24682,CWE-79,Other,Synacor,2022,1
+CVE-2017-0222,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2014-6352,CWE-94,Code injection,Microsoft,2022,0
+CVE-2022-23131,CWE-290,Other,Zabbix,2022,0
+CVE-2022-23134,CWE-284,Other,Zabbix,2022,0
+CVE-2022-24086,CWE-20,Improper input validation,Adobe,2022,0
+CVE-2022-0609,CWE-416,Use after free,Google,2022,0
+CVE-2019-0752,CWE-843,Other,Microsoft,2022,1
+CVE-2018-8174,CWE-787,Out-of-bounds write,Microsoft,2022,1
+CVE-2018-20250,CWE-36,Other,RARLAB,2022,1
+CVE-2018-15982,CWE-416,Use after free,Adobe,2022,1
+CVE-2017-9841,CWE-94,Code injection,PHPUnit,2022,0
+CVE-2014-1761,CWE-119,Memory buffer overflow,Microsoft,2022,0
+CVE-2013-3906,CWE-94,Code injection,Microsoft,2022,0
+CVE-2022-22620,CWE-416,Use after free,Apple,2022,0
+CVE-2021-36934,CWE-1220,Other,Microsoft,2022,0
+CVE-2020-0796,CWE-119,Memory buffer overflow,Microsoft,2022,1
+CVE-2018-1000861,CWE-502,Deserialization of untrusted data,Jenkins,2022,0
+CVE-2017-9791,CWE-20,Improper input validation,Apache,2022,0
+CVE-2017-0263,CWE-416,Use after free,Microsoft,2022,0
+CVE-2017-0145,CWE-20,Improper input validation,Microsoft,2022,1
+CVE-2017-0144,CWE-20,Improper input validation,Microsoft,2022,1
+CVE-2016-3088,CWE-20,Improper input validation,Apache,2022,0
+CVE-2015-2051,CWE-77,Other,D-Link,2022,0
+CVE-2015-1635,CWE-94,Code injection,Microsoft,2022,0
+CVE-2015-1130,CWE-254,Other,Apple,2022,0
+CVE-2014-4404,CWE-119,Memory buffer overflow,Apple,2022,0
+CVE-2022-21882,CWE-787,Out-of-bounds write,Microsoft,2022,1
+CVE-2022-22587,CWE-20,Improper input validation,Apple,2022,0
+CVE-2021-20038,CWE-121,Other,SonicWall,2022,1
+CVE-2020-5722,CWE-89,Other,Grandstream,2022,0
+CVE-2020-0787,CWE-269,Other,Microsoft,2022,1
+CVE-2014-1776,CWE-416,Use after free,Microsoft,2022,0
+CVE-2014-6271,CWE-78,OS command injection,GNU,2022,0
+CVE-2014-7169,CWE-78,OS command injection,GNU,2022,0
+CVE-2012-0391,CWE-20,Improper input validation,Apache,2022,0
+CVE-2018-8453,CWE-404,Other,Microsoft,2022,1
+CVE-2021-35247,CWE-20,Improper input validation,SolarWinds,2022,0
+CVE-2021-32648,CWE-287,Improper authentication,October CMS,2022,0
+CVE-2021-25296,CWE-78,OS command injection,Nagios,2022,0
+CVE-2021-25297,CWE-78,OS command injection,Nagios,2022,0
+CVE-2021-25298,CWE-78,OS command injection,Nagios,2022,0
+CVE-2021-40870,CWE-25,Other,Aviatrix,2022,0
+CVE-2021-33766,CWE-287,Improper authentication,Microsoft,2022,0
+CVE-2021-21975,CWE-918,Other,VMware,2022,1
+CVE-2021-21315,CWE-78,OS command injection,Npm package,2022,0
+CVE-2021-22991,CWE-119,Memory buffer overflow,F5,2022,0
+CVE-2020-14864,CWE-22,Path traversal,Oracle,2022,0
+CVE-2020-13671,CWE-434,Other,Drupal,2022,0
+CVE-2020-11978,CWE-78,OS command injection,Apache,2022,0
+CVE-2020-13927,CWE-1188,Other,Apache,2022,0
+CVE-2021-22017,CWE-23,Other,VMware,2022,0
+CVE-2021-36260,CWE-78,OS command injection,Hikvision,2022,0
+CVE-2020-6572,CWE-416,Use after free,Google,2022,0
+CVE-2013-3900,CWE-20,Improper input validation,Microsoft,2022,0
+CVE-2019-2725,CWE-74,Other,Oracle,2022,1
+CVE-2019-9670,CWE-611,Other,Synacor,2022,0
+CVE-2018-13382,CWE-285,Other,Fortinet,2022,1
+CVE-2018-13383,CWE-787,Out-of-bounds write,Fortinet,2022,1
+CVE-2019-1579,CWE-134,Other,Palo Alto Networks,2022,1
+CVE-2019-10149,CWE-78,OS command injection,Exim,2022,0
+CVE-2015-7450,CWE-94,Code injection,IBM,2022,0
+CVE-2017-1000486,CWE-326,Other,Primetek,2022,0
+CVE-2019-7609,CWE-94,Code injection,Elastic,2022,0
+CVE-2021-27860,CWE-434,Other,FatPipe,2022,0
+CVE-2021-4102,CWE-416,Use after free,Google,2021,0
+CVE-2019-13272,CWE-269,Other,Linux,2021,0
+CVE-2021-35394,CWE-78,OS command injection,Realtek,2021,0
+CVE-2019-0193,CWE-94,Code injection,Apache,2021,0
+CVE-2021-44168,CWE-494,Other,Fortinet,2021,0
+CVE-2017-17562,CWE-20,Improper input validation,Embedthis,2021,0
+CVE-2017-12149,CWE-502,Deserialization of untrusted data,Red Hat,2021,1
+CVE-2010-1871,CWE-20,Improper input validation,Red Hat,2021,0
+CVE-2020-17463,CWE-89,Other,Fuel CMS,2021,0
+CVE-2020-8816,CWE-78,OS command injection,Pi-hole,2021,0
+CVE-2021-44228,CWE-20,Improper input validation,Apache,2021,1
+CVE-2020-11261,CWE-20,Improper input validation,Qualcomm,2021,0
+CVE-2018-14847,CWE-22,Path traversal,MikroTik,2021,0
+CVE-2021-37415,CWE-306,Missing authentication,Zoho,2021,0
+CVE-2021-40438,CWE-918,Other,Apache,2021,1
+CVE-2021-44077,CWE-306,Missing authentication,Zoho,2021,0
+CVE-2021-22204,CWE-95,Other,Perl,2021,0
+CVE-2021-40449,CWE-416,Use after free,Microsoft,2021,1
+CVE-2021-42321,CWE-184,Other,Microsoft,2021,1
+CVE-2021-42292,CWE-357,Other,Microsoft,2021,0
+CVE-2021-27104,CWE-20,Improper input validation,Accellion,2021,1
+CVE-2021-27102,CWE-20,Improper input validation,Accellion,2021,1
+CVE-2021-27101,CWE-89,Other,Accellion,2021,1
+CVE-2021-27103,CWE-918,Other,Accellion,2021,1
+CVE-2021-21017,CWE-122,Other,Adobe,2021,0
+CVE-2021-28550,CWE-416,Use after free,Adobe,2021,0
+CVE-2018-4939,CWE-502,Deserialization of untrusted data,Adobe,2021,0
+CVE-2018-15961,CWE-434,Other,Adobe,2021,0
+CVE-2018-4878,CWE-416,Use after free,Adobe,2021,1
+CVE-2020-5735,CWE-121,Other,Amcrest,2021,0
+CVE-2019-2215,CWE-416,Use after free,Android,2021,0
+CVE-2020-0041,CWE-20,Improper input validation,Android,2021,0
+CVE-2020-0069,CWE-787,Out-of-bounds write,MediaTek,2021,0
+CVE-2017-9805,CWE-502,Deserialization of untrusted data,Apache,2021,0
+CVE-2021-42013,CWE-22,Path traversal,Apache,2021,1
+CVE-2021-41773,CWE-22,Path traversal,Apache,2021,1
+CVE-2019-0211,CWE-416,Use after free,Apache,2021,0
+CVE-2016-4437,CWE-284,Other,Apache,2021,0
+CVE-2019-17558,CWE-74,Other,Apache,2021,0
+CVE-2020-17530,CWE-917,Other,Apache,2021,0
+CVE-2017-5638,CWE-20,Improper input validation,Apache,2021,1
+CVE-2018-11776,CWE-20,Improper input validation,Apache,2021,0
+CVE-2021-30858,CWE-416,Use after free,Apple,2021,0
+CVE-2021-30860,CWE-20,Improper input validation,Apple,2021,0
+CVE-2020-27930,CWE-787,Out-of-bounds write,Apple,2021,0
+CVE-2021-30807,CWE-787,Out-of-bounds write,Apple,2021,0
+CVE-2020-27950,CWE-665,Other,Apple,2021,0
+CVE-2020-27932,CWE-843,Other,Apple,2021,0
+CVE-2020-9818,CWE-787,Out-of-bounds write,Apple,2021,0
+CVE-2020-9819,CWE-787,Out-of-bounds write,Apple,2021,0
+CVE-2021-30762,CWE-416,Use after free,Apple,2021,0
+CVE-2021-1782,CWE-362,Other,Apple,2021,0
+CVE-2021-1870,CWE-1173,Other,Apple,2021,0
+CVE-2021-1871,CWE-1173,Other,Apple,2021,0
+CVE-2021-1879,CWE-79,Other,Apple,2021,0
+CVE-2021-30661,CWE-416,Use after free,Apple,2021,0
+CVE-2021-30666,CWE-119,Memory buffer overflow,Apple,2021,0
+CVE-2021-30713,CWE-862,Other,Apple,2021,0
+CVE-2021-30657,CWE-862,Other,Apple,2021,0
+CVE-2021-30665,CWE-787,Out-of-bounds write,Apple,2021,0
+CVE-2021-30663,CWE-20,Improper input validation,Apple,2021,0
+CVE-2021-30761,CWE-787,Out-of-bounds write,Apple,2021,0
+CVE-2021-30869,CWE-843,Other,Apple,2021,0
+CVE-2020-9859,CWE-415,Other,Apple,2021,0
+CVE-2021-20090,CWE-22,Path traversal,Arcadyan,2021,0
+CVE-2021-27562,CWE-787,Out-of-bounds write,Arm,2021,0
+CVE-2021-28664,CWE-787,Out-of-bounds write,Arm,2021,0
+CVE-2021-28663,CWE-416,Use after free,Arm,2021,0
+CVE-2019-3398,CWE-22,Path traversal,Atlassian,2021,0
+CVE-2021-26084,CWE-917,Other,Atlassian,2021,1
+CVE-2019-3396,CWE-22,Path traversal,Atlassian,2021,1
+CVE-2021-42258,CWE-89,Other,BQE,2021,1
+CVE-2020-3452,CWE-20,Improper input validation,Cisco,2021,0
+CVE-2020-3580,CWE-79,Other,Cisco,2021,1
+CVE-2021-1497,CWE-78,OS command injection,Cisco,2021,0
+CVE-2021-1498,CWE-78,OS command injection,Cisco,2021,0
+CVE-2018-0171,CWE-20,Improper input validation,Cisco,2021,0
+CVE-2020-3118,CWE-134,Other,Cisco,2021,0
+CVE-2020-3566,CWE-400,Other,Cisco,2021,0
+CVE-2020-3569,CWE-400,Other,Cisco,2021,0
+CVE-2020-3161,CWE-20,Improper input validation,Cisco,2021,0
+CVE-2019-1653,CWE-284,Other,Cisco,2021,0
+CVE-2018-0296,CWE-20,Improper input validation,Cisco,2021,0
+CVE-2019-13608,CWE-611,Other,Citrix,2021,1
+CVE-2020-8193,CWE-284,Other,Citrix,2021,0
+CVE-2020-8195,CWE-20,Improper input validation,Citrix,2021,0
+CVE-2020-8196,CWE-284,Other,Citrix,2021,0
+CVE-2019-19781,CWE-22,Path traversal,Citrix,2021,1
+CVE-2020-29557,CWE-119,Memory buffer overflow,D-Link,2021,0
+CVE-2020-25506,CWE-78,OS command injection,D-Link,2021,0
+CVE-2018-15811,CWE-326,Other,DotNetNuke (DNN),2021,0
+CVE-2018-18325,CWE-326,Other,DotNetNuke (DNN),2021,0
+CVE-2017-9822,CWE-20,Improper input validation,DotNetNuke (DNN),2021,1
+CVE-2019-15752,CWE-732,Other,Docker,2021,0
+CVE-2020-8515,CWE-78,OS command injection,DrayTek,2021,0
+CVE-2018-7600,CWE-20,Improper input validation,Drupal,2021,1
+CVE-2021-22205,CWE-20,Improper input validation,GitLab,2021,1
+CVE-2018-6789,CWE-119,Memory buffer overflow,Exim,2021,1
+CVE-2020-8657,CWE-798,Other,EyesOfNetwork,2021,0
+CVE-2020-8655,CWE-269,Other,EyesOfNetwork,2021,0
+CVE-2020-5902,CWE-22,Path traversal,F5,2021,1
+CVE-2021-22986,CWE-863,Other,F5,2021,1
+CVE-2021-35464,CWE-502,Deserialization of untrusted data,ForgeRock,2021,1
+CVE-2019-5591,CWE-306,Missing authentication,Fortinet,2021,1
+CVE-2020-12812,CWE-178,Other,Fortinet,2021,1
+CVE-2018-13379,CWE-22,Path traversal,Fortinet,2021,1
+CVE-2020-16010,CWE-787,Out-of-bounds write,Google,2021,0
+CVE-2020-15999,CWE-787,Out-of-bounds write,Google,2021,0
+CVE-2021-21166,CWE-122,Other,Google,2021,0
+CVE-2020-16017,CWE-416,Use after free,Google,2021,0
+CVE-2021-37976,CWE-862,Other,Google,2021,0
+CVE-2020-16009,CWE-787,Out-of-bounds write,Google,2021,0
+CVE-2021-30632,CWE-122,Other,Google,2021,0
+CVE-2020-16013,CWE-787,Out-of-bounds write,Google,2021,0
+CVE-2021-30633,CWE-416,Use after free,Google,2021,0
+CVE-2021-21148,CWE-122,Other,Google,2021,0
+CVE-2021-37973,CWE-416,Use after free,Google,2021,0
+CVE-2021-30551,CWE-122,Other,Google,2021,0
+CVE-2021-37975,CWE-416,Use after free,Google,2021,0
+CVE-2020-6418,CWE-843,Other,Google,2021,0
+CVE-2021-30554,CWE-416,Use after free,Google,2021,0
+CVE-2021-21206,CWE-416,Use after free,Google,2021,0
+CVE-2021-38000,CWE-20,Improper input validation,Google,2021,0
+CVE-2021-38003,CWE-122,Other,Google,2021,0
+CVE-2021-21224,CWE-843,Other,Google,2021,0
+CVE-2021-21193,CWE-416,Use after free,Google,2021,0
+CVE-2021-21220,CWE-20,Improper input validation,Google,2021,0
+CVE-2021-30563,CWE-122,Other,Google,2021,0
+CVE-2020-4430,CWE-22,Path traversal,IBM,2021,0
+CVE-2020-4428,CWE-78,OS command injection,IBM,2021,0
+CVE-2019-4716,CWE-94,Code injection,IBM,2021,0
+CVE-2016-3715,CWE-284,Other,ImageMagick,2021,0
+CVE-2016-3718,CWE-20,Improper input validation,ImageMagick,2021,0
+CVE-2020-15505,CWE-706,Other,Ivanti,2021,0
+CVE-2021-30116,CWE-522,Other,Kaseya,2021,1
+CVE-2020-7961,CWE-502,Deserialization of untrusted data,Liferay,2021,0
+CVE-2021-23874,CWE-284,Other,McAfee,2021,0
+CVE-2021-22502,CWE-20,Improper input validation,Micro Focus,2021,0
+CVE-2014-1812,CWE-255,Other,Microsoft,2021,1
+CVE-2021-38647,CWE-1390,Other,Microsoft,2021,1
+CVE-2016-0167,CWE-264,Other,Microsoft,2021,1
+CVE-2020-0878,CWE-787,Out-of-bounds write,Microsoft,2021,1
+CVE-2021-31955,CWE-497,Other,Microsoft,2021,0
+CVE-2021-1647,CWE-122,Other,Microsoft,2021,0
+CVE-2016-0185,CWE-20,Improper input validation,Microsoft,2021,0
+CVE-2020-17087,CWE-131,Other,Microsoft,2021,0
+CVE-2021-33742,CWE-787,Out-of-bounds write,Microsoft,2021,0
+CVE-2021-33771,CWE-119,Memory buffer overflow,Microsoft,2021,0
+CVE-2021-31956,CWE-191,Other,Microsoft,2021,0
+CVE-2021-31979,CWE-119,Memory buffer overflow,Microsoft,2021,0
+CVE-2020-0938,CWE-787,Out-of-bounds write,Microsoft,2021,0
+CVE-2020-17144,CWE-502,Deserialization of untrusted data,Microsoft,2021,0
+CVE-2020-0986,CWE-787,Out-of-bounds write,Microsoft,2021,0
+CVE-2020-1020,CWE-787,Out-of-bounds write,Microsoft,2021,0
+CVE-2021-34523,CWE-287,Improper authentication,Microsoft,2021,1
+CVE-2017-7269,CWE-119,Memory buffer overflow,Microsoft,2021,0
+CVE-2020-0688,CWE-287,Improper authentication,Microsoft,2021,1
+CVE-2017-0143,CWE-20,Improper input validation,Microsoft,2021,1
+CVE-2016-7255,CWE-264,Other,Microsoft,2021,1
+CVE-2019-0708,CWE-416,Use after free,Microsoft,2021,1
+CVE-2021-34473,CWE-918,Other,Microsoft,2021,1
+CVE-2020-1464,CWE-347,Other,Microsoft,2021,0
+CVE-2021-1732,CWE-787,Out-of-bounds write,Microsoft,2021,1
+CVE-2021-34527,CWE-269,Other,Microsoft,2021,1
+CVE-2021-31207,CWE-20,Improper input validation,Microsoft,2021,1
+CVE-2020-1040,CWE-20,Improper input validation,Microsoft,2021,0
+CVE-2021-28310,CWE-787,Out-of-bounds write,Microsoft,2021,0
+CVE-2021-26411,CWE-416,Use after free,Microsoft,2021,1
+CVE-2021-40444,CWE-22,Path traversal,Microsoft,2021,1
+CVE-2017-8759,CWE-20,Improper input validation,Microsoft,2021,0
+CVE-2018-8653,CWE-787,Out-of-bounds write,Microsoft,2021,0
+CVE-2021-36942,CWE-749,Other,Microsoft,2021,1
+CVE-2018-0798,CWE-787,Out-of-bounds write,Microsoft,2021,0
+CVE-2018-0802,CWE-787,Out-of-bounds write,Microsoft,2021,1
+CVE-2012-0158,CWE-94,Code injection,Microsoft,2021,1
+CVE-2015-1641,CWE-399,Other,Microsoft,2021,0
+CVE-2019-0541,CWE-77,Other,Microsoft,2021,0
+CVE-2017-11882,CWE-119,Memory buffer overflow,Microsoft,2021,1
+CVE-2020-0674,CWE-416,Use after free,Microsoft,2021,0
+CVE-2019-1367,CWE-787,Out-of-bounds write,Microsoft,2021,1
+CVE-2020-1380,CWE-787,Out-of-bounds write,Microsoft,2021,0
+CVE-2019-1429,CWE-416,Use after free,Microsoft,2021,0
+CVE-2017-11774,CWE-119,Memory buffer overflow,Microsoft,2021,0
+CVE-2020-0968,CWE-787,Out-of-bounds write,Microsoft,2021,1
+CVE-2020-1472,CWE-330,Other,Microsoft,2021,1
+CVE-2021-26855,CWE-918,Other,Microsoft,2021,1
+CVE-2021-27065,CWE-39,Other,Microsoft,2021,1
+CVE-2020-1054,CWE-787,Out-of-bounds write,Microsoft,2021,0
+CVE-2021-1675,CWE-285,Other,Microsoft,2021,1
+CVE-2021-34448,CWE-787,Out-of-bounds write,Microsoft,2021,0
+CVE-2020-0601,CWE-295,Other,Microsoft,2021,0
+CVE-2019-0604,CWE-20,Improper input validation,Microsoft,2021,1
+CVE-2020-0646,CWE-91,Other,Microsoft,2021,0
+CVE-2021-26857,CWE-502,Deserialization of untrusted data,Microsoft,2021,1
+CVE-2016-3235,CWE-264,Other,Microsoft,2021,0
+CVE-2021-38648,CWE-1390,Other,Microsoft,2021,0
+CVE-2020-6819,CWE-362,Other,Mozilla,2021,0
+CVE-2020-6820,CWE-362,Other,Mozilla,2021,0
+CVE-2019-17026,CWE-843,Other,Mozilla,2021,0
+CVE-2019-15949,CWE-78,OS command injection,Nagios,2021,0
+CVE-2019-19356,CWE-78,OS command injection,Netis,2021,0
+CVE-2020-2555,CWE-502,Deserialization of untrusted data,Oracle,2021,0
+CVE-2020-14871,CWE-787,Out-of-bounds write,Oracle,2021,0
+CVE-2015-4852,CWE-502,Deserialization of untrusted data,Oracle,2021,0
+CVE-2020-8644,CWE-94,Code injection,PlaySMS,2021,0
+CVE-2019-18935,CWE-502,Deserialization of untrusted data,Progress,2021,1
+CVE-2021-22893,CWE-287,Improper authentication,Ivanti,2021,1
+CVE-2020-8243,CWE-94,Code injection,Ivanti,2021,0
+CVE-2021-22900,CWE-94,Code injection,Ivanti,2021,0
+CVE-2021-22894,CWE-94,Code injection,Ivanti,2021,0
+CVE-2020-8260,CWE-434,Other,Ivanti,2021,0
+CVE-2021-22899,CWE-77,Other,Ivanti,2021,0
+CVE-2019-11510,CWE-22,Path traversal,Ivanti,2021,1
+CVE-2019-11539,CWE-78,OS command injection,Ivanti,2021,1
+CVE-2021-1906,CWE-390,Other,Qualcomm,2021,0
+CVE-2021-1905,CWE-416,Use after free,Qualcomm,2021,0
+CVE-2020-10221,CWE-78,OS command injection,rConfig,2021,0
+CVE-2021-35395,CWE-20,Improper input validation,Realtek,2021,0
+CVE-2017-16651,CWE-552,Other,Roundcube,2021,0
+CVE-2020-11652,CWE-22,Path traversal,SaltStack,2021,0
+CVE-2020-16846,CWE-78,OS command injection,SaltStack,2021,0
+CVE-2018-2380,CWE-22,Path traversal,SAP,2021,1
+CVE-2016-9563,CWE-611,Other,SAP,2021,0
+CVE-2020-6287,CWE-306,Missing authentication,SAP,2021,0
+CVE-2020-6207,CWE-306,Missing authentication,SAP,2021,0
+CVE-2016-3976,CWE-22,Path traversal,SAP,2021,0
+CVE-2020-10148,CWE-288,Other,SolarWinds,2021,0
+CVE-2021-35211,CWE-787,Out-of-bounds write,SolarWinds,2021,1
+CVE-2016-3643,CWE-264,Other,SolarWinds,2021,0
+CVE-2020-10199,CWE-917,Other,Sonatype,2021,0
+CVE-2021-20021,CWE-306,Missing authentication,SonicWall,2021,1
+CVE-2019-7481,CWE-89,Other,SonicWall,2021,1
+CVE-2021-20022,CWE-434,Other,SonicWall,2021,1
+CVE-2021-20023,CWE-22,Path traversal,SonicWall,2021,1
+CVE-2021-20016,CWE-89,Other,SonicWall,2021,1
+CVE-2020-12271,CWE-89,Other,Sophos,2021,1
+CVE-2020-10181,CWE-352,Other,Sumavision,2021,0
+CVE-2017-6327,CWE-20,Improper input validation,Symantec,2021,0
+CVE-2019-18988,CWE-521,Other,TeamViewer,2021,0
+CVE-2017-9248,CWE-522,Other,Progress,2021,0
+CVE-2021-31755,CWE-787,Out-of-bounds write,Tenda,2021,0
+CVE-2020-10987,CWE-78,OS command injection,Tenda,2021,0
+CVE-2018-14558,CWE-78,OS command injection,Tenda,2021,0
+CVE-2018-20062,CWE-20,Improper input validation,ThinkPHP,2021,0
+CVE-2019-9082,CWE-306,Missing authentication,ThinkPHP,2021,0
+CVE-2019-18187,CWE-22,Path traversal,Trend Micro,2021,0
+CVE-2020-8468,CWE-74,Other,Trend Micro,2021,0
+CVE-2021-36742,CWE-20,Improper input validation,Trend Micro,2021,0
+CVE-2021-36741,CWE-22,Path traversal,Trend Micro,2021,0
+CVE-2019-20085,CWE-22,Path traversal,TVT,2021,0
+CVE-2020-5849,CWE-287,Improper authentication,Unraid,2021,0
+CVE-2019-16759,CWE-94,Code injection,vBulletin,2021,0
+CVE-2020-17496,CWE-74,Other,vBulletin,2021,0
+CVE-2019-5544,CWE-787,Out-of-bounds write,VMware,2021,1
+CVE-2020-3992,CWE-416,Use after free,VMware,2021,1
+CVE-2020-3950,CWE-269,Other,VMware,2021,0
+CVE-2021-22005,CWE-23,Other,VMware,2021,1
+CVE-2020-3952,CWE-306,Missing authentication,VMware,2021,0
+CVE-2021-21972,CWE-23,Other,VMware,2021,1
+CVE-2021-21985,CWE-20,Improper input validation,VMware,2021,1
+CVE-2020-4006,CWE-78,OS command injection,VMware,2021,0
+CVE-2020-25213,CWE-434,Other,WordPress,2021,0
+CVE-2020-11738,CWE-22,Path traversal,WordPress,2021,0
+CVE-2019-9978,CWE-79,Other,WordPress,2021,0
+CVE-2021-27561,CWE-78,OS command injection,Yealink,2021,0
+CVE-2021-40539,CWE-55,Other,Zoho,2021,1
+CVE-2020-10189,CWE-502,Deserialization of untrusted data,Zoho,2021,0
+CVE-2019-8394,CWE-434,Other,Zoho,2021,0
+CVE-2020-29583,CWE-522,Other,Zyxel,2021,0
+CVE-2026-102895,CWE-290,Other,GPUStack,2026,0
+CVE-2026-116779,CWE-78,OS command injection,SignalWire,2026,0
+CVE-2026-111357,CWE-862,Other,Ivanti,2026,0
+CVE-2026-111497,CWE-787,Out-of-bounds write,Google,2026,0
+CVE-2026-109618,CWE-755,Other,PHP Group,2026,0
+CVE-2026-109619,CWE-755,Other,PHP Group,2026,0
+CVE-2026-105134,CWE-78,OS command injection,Ahsay,2026,0
+CVE-2026-104286,CWE-158,Other,Fortinet,2026,0
+CVE-2026-84869,CWE-862,Other,ConnectWise,2026,0
+CVE-2025-25249,CWE-787,Out-of-bounds write,Fortinet,2026,0
+CVE-2026-81963,CWE-284,Other,Microsoft,2026,0
+CVE-2026-85880,CWE-908,Other,Microsoft,2026,0
+CVE-2026-59822,CWE-306,Missing authentication,BerriAI,2026,0
+CVE-2026-49869,CWE-184,Other,Kestra,2026,0
+CVE-2026-83548,CWE-441,Other,SonicWall,2026,0
+CVE-2025-62593,CWE-352,Other,Ray-Project,2026,0
+CVE-2026-46817,CWE-287,Improper authentication,Oracle,2026,0
+CVE-2026-12569,CWE-502,Deserialization of untrusted data,PTC,2026,1
+CVE-2025-67038,CWE-94,Code injection,Lantronix,2026,0
+CVE-2026-11645,CWE-125,Other,Google,2026,0
+CVE-2026-42271,CWE-77,Other,BerriAI,2026,0
+CVE-2022-0492,CWE-862,Other,Linux,2026,0
+CVE-2024-7399,CWE-434,Other,Samsung,2026,0
+CVE-2025-2749,CWE-434,Other,Kentico,2026,0
+CVE-2026-34197,CWE-94,Code injection,Apache,2026,0
+CVE-2026-33017,CWE-95,Other,Langflow,2026,0
+CVE-2022-20775,CWE-282,Other,Cisco,2026,0
+CVE-2025-31125,CWE-284,Other,Vite,2026,0
+CVE-2025-40602,CWE-250,Other,SonicWall,2025,0
+CVE-2025-4008,CWE-77,Other,Smartbedded,2025,0
+CVE-2025-10035,CWE-77,Other,Fortra,2025,1
+CVE-2025-57819,CWE-288,Other,Sangoma,2025,0
+CVE-2025-48384,CWE-436,Other,Git,2025,0
+CVE-2019-9621,CWE-807,Other,Synacor,2025,0
+CVE-2016-10033,CWE-88,Other,PHP,2025,0
+CVE-2025-5419,CWE-787,Out-of-bounds write,Google,2025,0
+CVE-2025-24813,CWE-502,Deserialization of untrusted data,Apache,2025,0
+CVE-2025-24985,CWE-122,Other,Microsoft,2025,0
+CVE-2024-38813,CWE-273,Other,VMware,2024,0
+CVE-2024-7593,CWE-303,Other,Ivanti,2024,0
+CVE-2024-3400,CWE-77,Other,Palo Alto Networks,2024,1
+CVE-2022-31199,CWE-122,Other,Netwrix,2023,1
+CVE-2022-27926,CWE-138,Other,Synacor,2023,0
+CVE-2022-42948,CWE-116,Other,Fortra,2023,0
+CVE-2022-39197,CWE-79,Other,Fortra,2023,0
+CVE-2021-30900,CWE-787,Out-of-bounds write,Apple,2023,0
+CVE-2021-39144,CWE-502,Deserialization of untrusted data,XStream,2023,0
+CVE-2022-28810,CWE-259,Other,Zoho,2023,0
+CVE-2022-4262,CWE-843,Other,Google,2022,0
+CVE-2021-35587,CWE-790,Other,Oracle,2022,0
+CVE-2022-3723,CWE-843,Other,Google,2022,0
+CVE-2022-42827,CWE-787,Out-of-bounds write,Apple,2022,0
+CVE-2022-36804,CWE-88,Other,Atlassian,2022,0
+CVE-2022-40139,CWE-641,Other,Trend Micro,2022,0
+CVE-2022-37969,CWE-787,Out-of-bounds write,Microsoft,2022,1
+CVE-2022-32917,CWE-787,Out-of-bounds write,Apple,2022,0
+CVE-2022-26352,CWE-138,Other,dotCMS,2022,1
+CVE-2021-31010,CWE-502,Deserialization of untrusted data,Apple,2022,0
+CVE-2020-36193,CWE-59,Other,PEAR,2022,0
+CVE-2022-32894,CWE-787,Out-of-bounds write,Apple,2022,0
+CVE-2022-32893,CWE-787,Out-of-bounds write,Apple,2022,0
+CVE-2022-30333,CWE-59,Other,RARLAB,2022,1
+CVE-2018-6065,CWE-787,Out-of-bounds write,Google,2022,0
+CVE-2016-5198,CWE-787,Out-of-bounds write,Google,2022,0
+CVE-2018-19953,CWE-80,Other,QNAP,2022,1
+CVE-2018-19949,CWE-77,Other,QNAP,2022,1
+CVE-2018-19943,CWE-80,Other,QNAP,2022,1
+CVE-2021-0920,CWE-416,Use after free,Android,2022,0
+CVE-2022-24521,CWE-1285,Other,Microsoft,2022,1
+CVE-2020-2509,CWE-78,OS command injection,QNAP,2022,0
+CVE-2021-3156,CWE-193,Other,Sudo,2022,0
+CVE-2022-22675,CWE-125,Other,Apple,2022,0
+CVE-2022-22674,CWE-125,Other,Apple,2022,0
+CVE-2022-26143,CWE-406,Other,Mitel,2022,0
+CVE-2022-21999,CWE-1386,Other,Microsoft,2022,1
+CVE-2020-7247,CWE-78,OS command injection,OpenBSD,2022,0
+CVE-2020-1631,CWE-73,Other,Juniper,2022,0
+CVE-2021-21973,CWE-918,Other,VMware,2022,0
+CVE-2022-24682,CWE-116,Other,Synacor,2022,1
+CVE-2022-22587,CWE-787,Out-of-bounds write,Apple,2022,0
+CVE-2020-0787,CWE-59,Other,Microsoft,2022,1
+CVE-2021-25296,CWE-138,Other,Nagios,2022,0
+CVE-2021-25297,CWE-138,Other,Nagios,2022,0
+CVE-2021-25298,CWE-138,Other,Nagios,2022,0
+CVE-2021-40870,CWE-96,Other,Aviatrix,2022,0
+CVE-2020-13927,CWE-306,Missing authentication,Apache,2022,0
+CVE-2021-35394,CWE-138,Other,Realtek,2021,0
+CVE-2021-44228,CWE-400,Other,Apache,2021,1
+CVE-2021-42321,CWE-502,Deserialization of untrusted data,Microsoft,2021,1
+CVE-2021-27104,CWE-78,OS command injection,Accellion,2021,1
+CVE-2021-27102,CWE-78,OS command injection,Accellion,2021,1
+CVE-2021-27101,CWE-138,Other,Accellion,2021,1
+CVE-2021-30860,CWE-190,Other,Apple,2021,0
+CVE-2021-1782,CWE-667,Other,Apple,2021,0
+CVE-2021-30663,CWE-190,Other,Apple,2021,0
+CVE-2021-22205,CWE-95,Other,GitLab,2021,1
+CVE-2020-12812,CWE-287,Improper authentication,Fortinet,2021,1
+CVE-2021-21166,CWE-362,Other,Google,2021,0
+CVE-2020-16009,CWE-843,Other,Google,2021,0
+CVE-2021-30551,CWE-843,Other,Google,2021,0
+CVE-2021-38003,CWE-755,Other,Google,2021,0
+CVE-2021-21220,CWE-122,Other,Google,2021,0
+CVE-2021-30563,CWE-843,Other,Google,2021,0
+CVE-2021-22502,CWE-78,OS command injection,Micro Focus,2021,0
+CVE-2021-1647,CWE-1285,Other,Microsoft,2021,0
+CVE-2021-33742,CWE-823,Other,Microsoft,2021,0
+CVE-2021-31956,CWE-787,Out-of-bounds write,Microsoft,2021,0
+CVE-2021-31207,CWE-434,Other,Microsoft,2021,1
+CVE-2019-1429,CWE-787,Out-of-bounds write,Microsoft,2021,0
+CVE-2020-6819,CWE-416,Use after free,Mozilla,2021,0
+CVE-2021-35395,CWE-122,Other,Realtek,2021,0
+CVE-2019-9082,CWE-94,Code injection,ThinkPHP,2021,0
+CVE-2020-5849,CWE-697,Other,Unraid,2021,0
+CVE-2021-21985,CWE-470,Other,VMware,2021,1
+CVE-2026-102895,CWE-346,Other,GPUStack,2026,0
+CVE-2026-116779,CWE-749,Other,SignalWire,2026,0
+CVE-2026-111357,CWE-345,Other,Ivanti,2026,0
+CVE-2026-109618,CWE-824,Other,PHP Group,2026,0
+CVE-2026-109619,CWE-824,Other,PHP Group,2026,0
+CVE-2026-49869,CWE-287,Improper authentication,Kestra,2026,0
+CVE-2026-46817,CWE-306,Missing authentication,Oracle,2026,0
+CVE-2026-33017,CWE-306,Missing authentication,Langflow,2026,0
+CVE-2022-36804,CWE-158,Other,Atlassian,2022,0
+CVE-2018-19949,CWE-78,OS command injection,QNAP,2022,1
+CVE-2021-44228,CWE-502,Deserialization of untrusted data,Apache,2021,1
+CVE-2021-21985,CWE-918,Other,VMware,2021,1
+CVE-2026-109618,CWE-1325,Other,PHP Group,2026,0
+CVE-2026-109619,CWE-1325,Other,PHP Group,2026,0
+CVE-2026-49869,CWE-918,Other,Kestra,2026,0
+CVE-2026-109618,CWE-1419,Other,PHP Group,2026,0
+CVE-2026-109619,CWE-1419,Other,PHP Group,2026,0

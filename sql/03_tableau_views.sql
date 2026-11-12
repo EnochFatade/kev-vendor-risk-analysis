@@ -1,6 +1,5 @@
--- 03_tableau_views.sql
--- Two flat views for Tableau Public (it can't connect to SQLite directly,
--- so I export these to CSV from DB Browser: right click view > Export as CSV).
+-- views for tableau
+-- tableau public can't read sqlite so these get exported to csv from DB Browser
 
 DROP VIEW IF EXISTS tableau_kev;
 CREATE VIEW tableau_kev AS
@@ -22,20 +21,20 @@ FROM kev k
 LEFT JOIN vendor_group g ON g.vendor = k.vendor;
 
 
+-- cwe names from cwe.mitre.org, top 10 only
 DROP TABLE IF EXISTS cwe_name;
 CREATE TABLE cwe_name (cwe TEXT PRIMARY KEY, cwe_name TEXT);
--- names from cwe.mitre.org, only looked up the ten most common
 INSERT INTO cwe_name VALUES
- ('CWE-20',  'Improper input validation'),
- ('CWE-78',  'OS command injection'),
- ('CWE-787', 'Out-of-bounds write'),
- ('CWE-416', 'Use after free'),
- ('CWE-119', 'Memory buffer overflow'),
- ('CWE-22',  'Path traversal'),
- ('CWE-94',  'Code injection'),
- ('CWE-502', 'Deserialization of untrusted data'),
- ('CWE-287', 'Improper authentication'),
- ('CWE-306', 'Missing authentication');
+('CWE-20', 'Improper input validation'),
+('CWE-78', 'OS command injection'),
+('CWE-787', 'Out-of-bounds write'),
+('CWE-416', 'Use after free'),
+('CWE-119', 'Memory buffer overflow'),
+('CWE-22', 'Path traversal'),
+('CWE-94', 'Code injection'),
+('CWE-502', 'Deserialization of untrusted data'),
+('CWE-287', 'Improper authentication'),
+('CWE-306', 'Missing authentication');
 
 DROP VIEW IF EXISTS tableau_cwe;
 CREATE VIEW tableau_cwe AS

@@ -2,7 +2,9 @@
 
 When I assess a vendor, most of what I look at is what the vendor tells me: SOC reports, pen test summaries, questionnaires. I wanted something from outside that process. CISA publishes a catalog of vulnerabilities that are confirmed to be exploited in real attacks (the KEV catalog), and every entry names the vendor and product. So I pulled it into SQL to see what it says about vendors.
 
-**Dashboard:** "KEV Vendor Risk Analysis" on Tableau Public
+**Dashboard:** [KEV Vendor Risk Analysis on Tableau Public](https://public.tableau.com/app/profile/enoch.fatade/viz/KEVVendorRiskAnalysis/WhichvendorskeepshowingupinCISAsexploitedvulnerabilitieslist)
+
+[![Dashboard](dashboard.png)](https://public.tableau.com/app/profile/enoch.fatade/viz/KEVVendorRiskAnalysis/WhichvendorskeepshowingupinCISAsexploitedvulnerabilitieslist)
 
 ## Data
 

@@ -2,7 +2,7 @@
 
 When I assess a vendor, most of what I look at is what the vendor tells me: SOC reports, pen test summaries, questionnaires. I wanted something from outside that process. CISA publishes a catalog of vulnerabilities that are confirmed to be exploited in real attacks (the KEV catalog), and every entry names the vendor and product. So I pulled it into SQL to see what it says about vendors.
 
-**Dashboard:** [add Tableau Public link]
+**Dashboard:** "KEV Vendor Risk Analysis" on Tableau Public
 
 ## Data
 
@@ -13,6 +13,17 @@ When I assess a vendor, most of what I look at is what the vendor tells me: SOC 
 ## Tools
 
 SQLite (DB Browser for SQLite) for cleaning and analysis, Tableau Public for the dashboard.
+
+## Dashboard
+
+One page in Tableau Public, built on the two CSVs in `tableau/` (related on CVE ID):
+
+- Key numbers across the top
+- Scatter of entry count against ransomware share for vendors with 10+ entries (log scale, otherwise Microsoft flattens everything)
+- Vendors with 20+ entries, shaded by ransomware share
+- Ransomware share by weakness type
+- Fix deadlines by year added
+- A vendor group filter that applies to every chart
 
 ## What I found
 
@@ -68,4 +79,4 @@ tableau/kev_clean.csv                      one row per vulnerability
 tableau/kev_cwe.csv                        one row per vulnerability per CWE
 ```
 
-To rerun: import the raw CSV into SQLite as `kev_raw` with columns renamed to `cve_id, vendor, product, vuln_name, date_added, short_description, required_action, due_date, ransomware_use, forensic_triage, notes, cwes`, then run the three SQL files in order.
+To rerun: import the raw CSV into SQLite as `kev_raw` (tick "Column names in first line" in the DB Browser import dialog, otherwise the header comes in as a data row) with columns renamed to `cve_id, vendor, product, vuln_name, date_added, short_description, required_action, due_date, ransomware_use, forensic_triage, notes, cwes`, then run the three SQL files in order.

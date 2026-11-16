@@ -1,39 +1,25 @@
-# Which vendors keep showing up in CISA's exploited vulnerabilities list?
+# KEV Vendor Risk Analysis
 
-When I assess a vendor, most of what I look at is what the vendor tells me: SOC reports, pen test summaries, questionnaires. I wanted something from outside that process. CISA publishes a catalog of vulnerabilities that are confirmed to be exploited in real attacks (the KEV catalog), and every entry names the vendor and product. So I pulled it into SQL to see what it says about vendors.
+Looking at CISA's Known Exploited Vulnerabilities (KEV) catalog by vendor, using SQL and Tableau.
 
-**Dashboard:** [KEV Vendor Risk Analysis on Tableau Public](https://public.tableau.com/app/profile/enoch.fatade/viz/KEVVendorRiskAnalysis/WhichvendorskeepshowingupinCISAsexploitedvulnerabilitieslist)
+Most of what I review in a vendor assessment comes from the vendor (SOC reports, pen tests, questionnaires). The KEV catalog is public and every entry names a vendor and product, so I wanted to see what it says about vendors on its own.
 
-[![Dashboard](dashboard.png)](https://public.tableau.com/app/profile/enoch.fatade/viz/KEVVendorRiskAnalysis/WhichvendorskeepshowingupinCISAsexploitedvulnerabilitieslist)
+Dashboard: https://public.tableau.com/app/profile/enoch.fatade/viz/KEVVendorRiskAnalysis/WhichvendorskeepshowingupinCISAsexploitedvulnerabilitieslist
+
+![dashboard](dashboard.png)
 
 ## Data
 
-- Source: [CISA Known Exploited Vulnerabilities catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog), CSV from [cisagov/kev-data](https://github.com/cisagov/kev-data)
-- Pulled November 10, 2026
-- 1,779 vulnerabilities, 294 vendors, entries added from November 2021 to November 2026
+CSV from https://github.com/cisagov/kev-data, pulled Nov 10 2026. 1,779 vulnerabilities across 294 vendors, added between Nov 2021 and Nov 2026.
 
-## Tools
+I used DB Browser for SQLite for the SQL and Tableau Public for the dashboard.
 
-SQLite (DB Browser for SQLite) for cleaning and analysis, Tableau Public for the dashboard.
+## Findings
 
-## Dashboard
+- The top 10 vendors are 52.8% of the catalog. Microsoft is 22% by itself (391 entries).
+- Having the most entries doesn't mean having the worst ransomware numbers. 20.3% of all entries are flagged for known ransomware use. For vendors with 10+ entries:
 
-One page in Tableau Public, built on the two CSVs in `tableau/` (related on CVE ID):
-
-- Key numbers across the top
-- Scatter of entry count against ransomware share for vendors with 10+ entries (log scale, otherwise Microsoft flattens everything)
-- Vendors with 20+ entries, shaded by ransomware share
-- Ransomware share by weakness type
-- Fix deadlines by year added
-- A vendor group filter that applies to every chart
-
-## What I found
-
-**1. Ten vendors make up over half the catalog.** 294 vendors are listed, but the top 10 account for 52.8% of entries. Microsoft alone is 22% (391 entries).
-
-**2. The vendors with the most entries are not the ones with the worst ransomware numbers.** CISA marks whether each vulnerability is known to be used in ransomware campaigns. Across the catalog that is 20.3%. For vendors with at least 10 entries:
-
-| Vendor | Entries | Known ransomware use |
+| Vendor | Entries | Ransomware use |
 |---|---|---|
 | QNAP | 11 | 81.8% |
 | SonicWall | 20 | 65.0% |
@@ -44,41 +30,30 @@ One page in Tableau Public, built on the two CSVs in `tableau/` (related on CVE 
 | Cisco | 103 | 6.8% |
 | Apple + Google | 173 | 0% |
 
-Cisco is second by count and near the bottom on this measure. Apple and Google have 173 entries between them and none flagged for ransomware. If you ranked vendors by count alone you would get a very different list.
+- I grouped vendors into three buckets thinking network/security appliance vendors would be clearly worse. They weren't really: 24.6% vs 25.5% for enterprise apps and 17.8% for OS/browser/endpoint. SonicWall and Fortinet are high but Cisco and D-Link are low, so it depends on the vendor more than the group.
+- Fix deadlines got shorter in 2026. 2023 to 2025 was nearly all 21 days, with under 8% due within a week. In 2026 it's 54.2% due within 7 days, and 157 of the 295 are due in 3.
+- Old CVEs still get added. Of 913 entries added since 2023, 20.9% were 2+ years old and 10.4% were 5+ years old.
+- Deserialization (40.8%) and path traversal (32.9%) flaws are ransomware linked a lot more often than memory bugs (12.1%).
+- 2026 has 295 additions through Nov 10. All of 2025 was 245 and 2024 was 186.
 
-**3. My vendor grouping idea only half worked.** I expected network and security appliance vendors to stand out as a group. They came in at 24.6%, about the same as enterprise apps (25.5%), with OS/browser/endpoint vendors at 17.8%. The group average hides a big spread: SonicWall and Fortinet are high, Cisco and D-Link are low. The vendor matters more than the category.
+For vendor reviews, what I take from this is to check the ransomware share and not only the count, and to ask vendors what their patch SLA is for KEV listed vulnerabilities. A 30 day SLA doesn't line up with a 3 day deadline.
 
-**4. Fix deadlines got a lot shorter in 2026.** Each entry has a due date for federal agencies. From 2023 through 2025 nearly everything was due in 21 days, and under 8% of entries each year were due within a week. In 2026 so far, 54.2% are due within 7 days (157 of 295 are due in 3).
+## Things to keep in mind
 
-**5. Old vulnerabilities keep getting added.** Of the 913 entries added since 2023, 20.9% were for CVEs at least 2 years old and 10.4% were at least 5 years old.
-
-**6. The weakness type matters.** Memory bugs (out-of-bounds write, use after free, buffer overflow) are common but only 12.1% are ransomware linked. Deserialization flaws are 40.8% and path traversal is 32.9%.
-
-**7. 2026 is already the busiest year since the backlog was loaded.** 295 additions through November 10, compared to 245 in all of 2025 and 186 in 2024.
-
-## How I'd use this in vendor risk work
-
-- Check a vendor's products against the catalog during due diligence, and look at the ransomware share, not just the count.
-- For any vendor running products from the watchlist (query 9), ask for their patch SLA for KEV-listed vulnerabilities specifically. With 3 day deadlines becoming common, a 30 day critical patch SLA is out of step.
-- Ask about end-of-life software. A fifth of recent additions are for CVEs two or more years old.
-
-## Limitations
-
-- The catalog only covers vulnerabilities CISA has confirmed as exploited. It is not a measure of how secure a vendor is overall, and big vendors have more entries partly because they have more products and more users.
-- "Unknown" ransomware use means not known, not no.
-- 287 entries were loaded on the day the catalog launched and 2022 includes a lot of backlog too, so I don't treat 2021 and 2022 as real yearly counts.
-- The vendor groups are my own, assigned at vendor level for the 53 vendors with 5 or more entries. 175 entries have no CWE listed.
-- The data has no patch dates, so this says nothing about how fast vendors actually patch.
+- KEV only has vulnerabilities CISA confirmed as exploited. It doesn't tell you how secure a vendor is overall, and bigger vendors have more products and more users.
+- Ransomware use "Unknown" means unknown, not no.
+- 287 entries were loaded the day the catalog launched and 2022 has a lot of backlog too, so 2021 and 2022 aren't real yearly counts.
+- The vendor groups are mine, done at vendor level for the 53 vendors with 5+ entries.
+- 175 entries have no CWE.
+- There are no patch dates in the data, so nothing here is about how fast vendors patch.
 
 ## Files
 
-```
-data/known_exploited_vulnerabilities.csv   raw file from CISA
-sql/01_clean.sql                           cleaning, vendor groups, CWE split
-sql/02_analysis.sql                        the nine queries behind the findings
-sql/03_tableau_views.sql                   flat views exported for Tableau
-tableau/kev_clean.csv                      one row per vulnerability
-tableau/kev_cwe.csv                        one row per vulnerability per CWE
-```
+- `data/known_exploited_vulnerabilities.csv` raw file from CISA
+- `sql/01_clean.sql` cleaning, vendor groups, CWE split
+- `sql/02_analysis.sql` queries behind the findings
+- `sql/03_tableau_views.sql` views exported for Tableau
+- `tableau/kev_clean.csv` one row per vulnerability
+- `tableau/kev_cwe.csv` one row per vulnerability per CWE
 
-To rerun: import the raw CSV into SQLite as `kev_raw` (tick "Column names in first line" in the DB Browser import dialog, otherwise the header comes in as a data row) with columns renamed to `cve_id, vendor, product, vuln_name, date_added, short_description, required_action, due_date, ransomware_use, forensic_triage, notes, cwes`, then run the three SQL files in order.
+To rerun it, import the raw CSV into SQLite as `kev_raw` (tick "Column names in first line" on import) and rename the columns to `cve_id, vendor, product, vuln_name, date_added, short_description, required_action, due_date, ransomware_use, forensic_triage, notes, cwes`. Then run the three SQL files in order.
